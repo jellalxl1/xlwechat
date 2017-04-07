@@ -1,0 +1,267 @@
+[pool-1-thread-1][29]2017-02-20 00:00:00.002 DEBUG com.wechat.utils.WeixinUtils.getToken:136 - {grant_type=client_credential, secret=e5994e6918564af078d4ed7674e456fd, appid=wx494a7bdca2d1deb1}
+[pool-1-thread-1][29]2017-02-20 00:00:00.005 DEBUG com.wechat.utils.HttpsGetData.sendGet:53 - GET请求的URL为：https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&secret=e5994e6918564af078d4ed7674e456fd&appid=wx494a7bdca2d1deb1
+[pool-1-thread-1][29]2017-02-20 00:00:00.237 DEBUG com.wechat.utils.HttpsGetData.sendGet:81 - 获取的结果为：{"access_token":"lfxyaVtwRVg-CCOtY8oXATBDo3jWZ7soX9qAG5Ta0AihhD5SXX1tztsd2JvNx-d7C0kOTmEJr5nX5J3xT0X5WpfXzvJpkRQfqrjJyBLz_aNh7cuEPmDS0wT-WEMtwPMPVQMeAAALGC","expires_in":7200}
+[pool-1-thread-1][29]2017-02-20 00:00:00.238 INFO  com.wechat.utils.WeixinUtils.getToken:146 - {access_token=lfxyaVtwRVg-CCOtY8oXATBDo3jWZ7soX9qAG5Ta0AihhD5SXX1tztsd2JvNx-d7C0kOTmEJr5nX5J3xT0X5WpfXzvJpkRQfqrjJyBLz_aNh7cuEPmDS0wT-WEMtwPMPVQMeAAALGC, expires_in=7200}
+[pool-1-thread-1][29]2017-02-20 01:00:00.001 DEBUG com.wechat.utils.WeixinUtils.getToken:136 - {grant_type=client_credential, secret=e5994e6918564af078d4ed7674e456fd, appid=wx494a7bdca2d1deb1}
+[pool-1-thread-1][29]2017-02-20 01:00:00.002 DEBUG com.wechat.utils.HttpsGetData.sendGet:53 - GET请求的URL为：https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&secret=e5994e6918564af078d4ed7674e456fd&appid=wx494a7bdca2d1deb1
+[pool-1-thread-1][29]2017-02-20 01:00:00.240 DEBUG com.wechat.utils.HttpsGetData.sendGet:81 - 获取的结果为：{"access_token":"sLL26tBuxyFJSPf3RCs4kggK1PWmg7FhWl4JGk_QhGfQNAJ9icnM42wKtwkwCXJTPDX2mDXqKp8v-FoB9l2hLW5KM-cJbv1-3OJJql38-cXKDDIXLMR8fyKrC-3dLcqFPPHeABAAAS","expires_in":7200}
+[pool-1-thread-1][29]2017-02-20 01:00:00.241 INFO  com.wechat.utils.WeixinUtils.getToken:146 - {access_token=sLL26tBuxyFJSPf3RCs4kggK1PWmg7FhWl4JGk_QhGfQNAJ9icnM42wKtwkwCXJTPDX2mDXqKp8v-FoB9l2hLW5KM-cJbv1-3OJJql38-cXKDDIXLMR8fyKrC-3dLcqFPPHeABAAAS, expires_in=7200}
+[pool-1-thread-1][29]2017-02-20 02:00:00.002 DEBUG com.wechat.utils.WeixinUtils.getToken:136 - {grant_type=client_credential, secret=e5994e6918564af078d4ed7674e456fd, appid=wx494a7bdca2d1deb1}
+[pool-1-thread-1][29]2017-02-20 02:00:00.003 DEBUG com.wechat.utils.HttpsGetData.sendGet:53 - GET请求的URL为：https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&secret=e5994e6918564af078d4ed7674e456fd&appid=wx494a7bdca2d1deb1
+[pool-1-thread-1][29]2017-02-20 02:00:00.241 DEBUG com.wechat.utils.HttpsGetData.sendGet:81 - 获取的结果为：{"access_token":"cabGQpp6pvrbcgnwDNYbIHkxQOakYjrrYQS4F9Wpr8fTO_WJ1iHAd24C9pnlX9Jv7nX64Es_r8uGJfdEdWM2s1lh_R4ERqI7pkqS4RT4LT4DBGiAJAYWB","expires_in":7200}
+[pool-1-thread-1][29]2017-02-20 02:00:00.242 INFO  com.wechat.utils.WeixinUtils.getToken:146 - {access_token=cabGQpp6pvrbcgnwDNYbIHkxQOakYjrrYQS4F9Wpr8fTO_WJ1iHAd24C9pnlX9Jv7nX64Es_r8uGJfdEdWM2s1lh_R4ERqI7pkqS4RT4LT4DBGiAJAYWB, expires_in=7200}
+[pool-1-thread-1][29]2017-02-20 03:00:00.001 DEBUG com.wechat.utils.WeixinUtils.getToken:136 - {grant_type=client_credential, secret=e5994e6918564af078d4ed7674e456fd, appid=wx494a7bdca2d1deb1}
+[pool-1-thread-1][29]2017-02-20 03:00:00.002 DEBUG com.wechat.utils.HttpsGetData.sendGet:53 - GET请求的URL为：https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&secret=e5994e6918564af078d4ed7674e456fd&appid=wx494a7bdca2d1deb1
+[pool-1-thread-1][29]2017-02-20 03:00:00.212 DEBUG com.wechat.utils.HttpsGetData.sendGet:81 - 获取的结果为：{"access_token":"-FcH99oK_i_iG31bLzmoT9bWv-ssnW9J1m3UiKdskg2fV74Dsd_mULYa-kZJXA3weA7NyZy6RoMwHZ6za8EGhlUgDrg66INpFQlLVla53vJ9-qZmMpQemjtDaxMWd4thAFYhABAJOH","expires_in":7200}
+[pool-1-thread-1][29]2017-02-20 03:00:00.212 INFO  com.wechat.utils.WeixinUtils.getToken:146 - {access_token=-FcH99oK_i_iG31bLzmoT9bWv-ssnW9J1m3UiKdskg2fV74Dsd_mULYa-kZJXA3weA7NyZy6RoMwHZ6za8EGhlUgDrg66INpFQlLVla53vJ9-qZmMpQemjtDaxMWd4thAFYhABAJOH, expires_in=7200}
+[pool-1-thread-1][29]2017-02-20 04:00:00.001 DEBUG com.wechat.utils.WeixinUtils.getToken:136 - {grant_type=client_credential, secret=e5994e6918564af078d4ed7674e456fd, appid=wx494a7bdca2d1deb1}
+[pool-1-thread-1][29]2017-02-20 04:00:00.002 DEBUG com.wechat.utils.HttpsGetData.sendGet:53 - GET请求的URL为：https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&secret=e5994e6918564af078d4ed7674e456fd&appid=wx494a7bdca2d1deb1
+[pool-1-thread-1][29]2017-02-20 04:00:00.223 DEBUG com.wechat.utils.HttpsGetData.sendGet:81 - 获取的结果为：{"access_token":"zrgED3Jy6pmDF4Z44cFwQtN4RoD7gyQBpNKdusICqK-vquA11buIx-uTUK1vhXKZ1k8wycJLI63pw5YI0BFBscx7EaZGVmapsMin_WCl8lMtb0pDUMctYE1VoVzzONeALLMdAFASST","expires_in":7200}
+[pool-1-thread-1][29]2017-02-20 04:00:00.223 INFO  com.wechat.utils.WeixinUtils.getToken:146 - {access_token=zrgED3Jy6pmDF4Z44cFwQtN4RoD7gyQBpNKdusICqK-vquA11buIx-uTUK1vhXKZ1k8wycJLI63pw5YI0BFBscx7EaZGVmapsMin_WCl8lMtb0pDUMctYE1VoVzzONeALLMdAFASST, expires_in=7200}
+[pool-1-thread-1][29]2017-02-20 05:00:00.016 DEBUG com.wechat.utils.WeixinUtils.getToken:136 - {grant_type=client_credential, secret=e5994e6918564af078d4ed7674e456fd, appid=wx494a7bdca2d1deb1}
+[pool-1-thread-1][29]2017-02-20 05:00:00.017 DEBUG com.wechat.utils.HttpsGetData.sendGet:53 - GET请求的URL为：https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&secret=e5994e6918564af078d4ed7674e456fd&appid=wx494a7bdca2d1deb1
+[pool-1-thread-1][29]2017-02-20 05:00:00.240 DEBUG com.wechat.utils.HttpsGetData.sendGet:81 - 获取的结果为：{"access_token":"2khoGBllU0xx351s4oeD94BpmdHYkzoHjeF2nrixoYXTassFX-P_nC3WhXDKTRN-fZCm7PVD8bTZWcalGVCNTfCu1QtVR-udSpT0en7OUPMOUTaACAVBA","expires_in":7200}
+[pool-1-thread-1][29]2017-02-20 05:00:00.241 INFO  com.wechat.utils.WeixinUtils.getToken:146 - {access_token=2khoGBllU0xx351s4oeD94BpmdHYkzoHjeF2nrixoYXTassFX-P_nC3WhXDKTRN-fZCm7PVD8bTZWcalGVCNTfCu1QtVR-udSpT0en7OUPMOUTaACAVBA, expires_in=7200}
+[pool-1-thread-1][29]2017-02-20 06:00:00.001 DEBUG com.wechat.utils.WeixinUtils.getToken:136 - {grant_type=client_credential, secret=e5994e6918564af078d4ed7674e456fd, appid=wx494a7bdca2d1deb1}
+[pool-1-thread-1][29]2017-02-20 06:00:00.002 DEBUG com.wechat.utils.HttpsGetData.sendGet:53 - GET请求的URL为：https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&secret=e5994e6918564af078d4ed7674e456fd&appid=wx494a7bdca2d1deb1
+[pool-1-thread-1][29]2017-02-20 06:00:00.230 DEBUG com.wechat.utils.HttpsGetData.sendGet:81 - 获取的结果为：{"access_token":"cabGQpp6pvrbcgnwDNYbIIl9ZaMkvo5zH7k3hNhWt_F0EW8pVA0G-2CK2iBnuCOmyKuwrPFu1aot-mcYzWBDaAZ2cDaEUhypxFl_G7yXnH4Oy2XOHm0Y-dQPqj-0WYTmAYCiAHAQOS","expires_in":7200}
+[pool-1-thread-1][29]2017-02-20 06:00:00.231 INFO  com.wechat.utils.WeixinUtils.getToken:146 - {access_token=cabGQpp6pvrbcgnwDNYbIIl9ZaMkvo5zH7k3hNhWt_F0EW8pVA0G-2CK2iBnuCOmyKuwrPFu1aot-mcYzWBDaAZ2cDaEUhypxFl_G7yXnH4Oy2XOHm0Y-dQPqj-0WYTmAYCiAHAQOS, expires_in=7200}
+[pool-1-thread-1][29]2017-02-20 07:00:00.002 DEBUG com.wechat.utils.WeixinUtils.getToken:136 - {grant_type=client_credential, secret=e5994e6918564af078d4ed7674e456fd, appid=wx494a7bdca2d1deb1}
+[pool-1-thread-1][29]2017-02-20 07:00:00.003 DEBUG com.wechat.utils.HttpsGetData.sendGet:53 - GET请求的URL为：https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&secret=e5994e6918564af078d4ed7674e456fd&appid=wx494a7bdca2d1deb1
+[pool-1-thread-1][29]2017-02-20 07:00:01.567 DEBUG com.wechat.utils.HttpsGetData.sendGet:81 - 获取的结果为：{"access_token":"2mkTwlXpKy_A8JDUfJK8w0aPnoR4wt5oFSCu25-mSHIIacb2qW41Y6wPOJ--D8C7LB2nZTvc-DGkQVpjKyCD2XYI3Z8BSn5d39h66Q97kcfrj4Jnoso-H4-ifFvvyo4uGWOgADAQGY","expires_in":7200}
+[pool-1-thread-1][29]2017-02-20 07:00:01.568 INFO  com.wechat.utils.WeixinUtils.getToken:146 - {access_token=2mkTwlXpKy_A8JDUfJK8w0aPnoR4wt5oFSCu25-mSHIIacb2qW41Y6wPOJ--D8C7LB2nZTvc-DGkQVpjKyCD2XYI3Z8BSn5d39h66Q97kcfrj4Jnoso-H4-ifFvvyo4uGWOgADAQGY, expires_in=7200}
+[pool-1-thread-1][29]2017-02-20 08:00:00.005 DEBUG com.wechat.utils.WeixinUtils.getToken:136 - {grant_type=client_credential, secret=e5994e6918564af078d4ed7674e456fd, appid=wx494a7bdca2d1deb1}
+[pool-1-thread-1][29]2017-02-20 08:00:00.006 DEBUG com.wechat.utils.HttpsGetData.sendGet:53 - GET请求的URL为：https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&secret=e5994e6918564af078d4ed7674e456fd&appid=wx494a7bdca2d1deb1
+[pool-1-thread-1][29]2017-02-20 08:00:00.222 DEBUG com.wechat.utils.HttpsGetData.sendGet:81 - 获取的结果为：{"access_token":"65fCr8XJOXcaTCJ8auK3n42AbwlGofK5h-C81vyskuxVX6mCer9Nf_i3DATuBMlIYMiAdK9o6N8ChBC34pMMz7ljEHqu4J353BnDtu7KNU9xR-iEoam_xrWLYLLXnMucVDVaAEAGOG","expires_in":7200}
+[pool-1-thread-1][29]2017-02-20 08:00:00.223 INFO  com.wechat.utils.WeixinUtils.getToken:146 - {access_token=65fCr8XJOXcaTCJ8auK3n42AbwlGofK5h-C81vyskuxVX6mCer9Nf_i3DATuBMlIYMiAdK9o6N8ChBC34pMMz7ljEHqu4J353BnDtu7KNU9xR-iEoam_xrWLYLLXnMucVDVaAEAGOG, expires_in=7200}
+[pool-1-thread-1][29]2017-02-20 09:00:00.001 DEBUG com.wechat.utils.WeixinUtils.getToken:136 - {grant_type=client_credential, secret=e5994e6918564af078d4ed7674e456fd, appid=wx494a7bdca2d1deb1}
+[pool-1-thread-1][29]2017-02-20 09:00:00.002 DEBUG com.wechat.utils.HttpsGetData.sendGet:53 - GET请求的URL为：https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&secret=e5994e6918564af078d4ed7674e456fd&appid=wx494a7bdca2d1deb1
+[pool-1-thread-1][29]2017-02-20 09:00:00.281 DEBUG com.wechat.utils.HttpsGetData.sendGet:81 - 获取的结果为：{"access_token":"dPy11pMR-jIigp44VYHapkw5r6xtD6ewiGWcpIn26IEE5JQ5lmxhd9BOxxu7Un8_5nql-DwS4NNBNrlazCqn6ytv5TQ_eMHSsLgNNnLuwRLhXjHmdQxVjVAOI0KEchZgRXAhAEAEKN","expires_in":7200}
+[pool-1-thread-1][29]2017-02-20 09:00:00.281 INFO  com.wechat.utils.WeixinUtils.getToken:146 - {access_token=dPy11pMR-jIigp44VYHapkw5r6xtD6ewiGWcpIn26IEE5JQ5lmxhd9BOxxu7Un8_5nql-DwS4NNBNrlazCqn6ytv5TQ_eMHSsLgNNnLuwRLhXjHmdQxVjVAOI0KEchZgRXAhAEAEKN, expires_in=7200}
+[pool-1-thread-1][29]2017-02-20 10:00:00.007 DEBUG com.wechat.utils.WeixinUtils.getToken:136 - {grant_type=client_credential, secret=e5994e6918564af078d4ed7674e456fd, appid=wx494a7bdca2d1deb1}
+[pool-1-thread-1][29]2017-02-20 10:00:00.009 DEBUG com.wechat.utils.HttpsGetData.sendGet:53 - GET请求的URL为：https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&secret=e5994e6918564af078d4ed7674e456fd&appid=wx494a7bdca2d1deb1
+[pool-1-thread-1][29]2017-02-20 10:00:00.239 DEBUG com.wechat.utils.HttpsGetData.sendGet:81 - 获取的结果为：{"access_token":"cc9uOBdyD9K2b5hWffa_jL3mwT5VdzYfUstTawEetWnHpgim3FCnbvUFwQbT0a1t3tzJSRNPhnZLaFKpt-1FHUEUw3Njxe2A3hrww_iX-ovpYMcADCtmQFJM_GGGz0gODGEeAEAWZX","expires_in":7200}
+[pool-1-thread-1][29]2017-02-20 10:00:00.240 INFO  com.wechat.utils.WeixinUtils.getToken:146 - {access_token=cc9uOBdyD9K2b5hWffa_jL3mwT5VdzYfUstTawEetWnHpgim3FCnbvUFwQbT0a1t3tzJSRNPhnZLaFKpt-1FHUEUw3Njxe2A3hrww_iX-ovpYMcADCtmQFJM_GGGz0gODGEeAEAWZX, expires_in=7200}
+[main][1]2017-02-20 10:50:24.439 INFO  com.wechat.XlwechatApplication.logStarting:48 - Starting XlwechatApplication on xielang with PID 18188 (D:\xlwechat\target\classes started by xielang in D:\xlwechat)
+[main][1]2017-02-20 10:50:24.446 DEBUG com.wechat.XlwechatApplication.logStarting:51 - Running with Spring Boot v1.5.1.RELEASE, Spring v4.3.6.RELEASE
+[main][1]2017-02-20 10:50:24.446 INFO  com.wechat.XlwechatApplication.logStartupProfileInfo:637 - No active profile set, falling back to default profiles: default
+[background-preinit][20]2017-02-20 10:50:25.332 INFO  o.h.validator.internal.util.Version.<clinit>:30 - HV000001: Hibernate Validator 5.3.4.Final
+[main][1]2017-02-20 10:50:27.924 INFO  o.a.catalina.core.StandardService.log:179 - Starting service Tomcat
+[main][1]2017-02-20 10:50:27.926 INFO  o.a.catalina.core.StandardEngine.log:179 - Starting Servlet Engine: Apache Tomcat/8.5.11
+[localhost-startStop-1][24]2017-02-20 10:50:28.171 INFO  o.a.c.c.C.[.[localhost].[/wx-agent2].log:179 - Initializing Spring embedded WebApplicationContext
+[main][1]2017-02-20 10:50:30.646 INFO  o.a.coyote.http11.Http11NioProtocol.log:179 - Initializing ProtocolHandler ["http-nio-80"]
+[main][1]2017-02-20 10:50:30.660 INFO  o.a.coyote.http11.Http11NioProtocol.log:179 - Starting ProtocolHandler [http-nio-80]
+[main][1]2017-02-20 10:50:30.675 INFO  o.a.tomcat.util.net.NioSelectorPool.log:179 - Using a shared selector for servlet write/read
+[main][1]2017-02-20 10:50:30.734 INFO  com.wechat.XlwechatApplication.logStarted:57 - Started XlwechatApplication in 6.934 seconds (JVM running for 8.568)
+[http-nio-80-exec-1][46]2017-02-20 10:52:20.327 INFO  o.a.c.c.C.[.[localhost].[/wx-agent2].log:179 - Initializing Spring FrameworkServlet 'dispatcherServlet'
+[http-nio-80-exec-1][46]2017-02-20 10:52:20.425 DEBUG com.wechat.demo.DemoManager.testwy:99 - https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx494a7bdca2d1deb1&redirect_uri=http%3A%2F%2Fysdtest.jlpay.com%2Fwx-agent2%2Fwechat%2Ftest%2Fwangyeshouqyuan.html&response_type=code&scope=snsapi_userinfo&state=1#wechat_redirect
+[http-nio-80-exec-2][47]2017-02-20 10:52:30.451 DEBUG com.wechat.demo.DemoManager.testwy:99 - https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx494a7bdca2d1deb1&redirect_uri=http%3A%2F%2Fysdtest.jlpay.com%2Fwx-agent2%2Fwechat%2Ftest%2Fwangyeshouqyuan.html&response_type=code&scope=snsapi_userinfo&state=1#wechat_redirect
+[http-nio-80-exec-3][48]2017-02-20 10:53:34.785 DEBUG com.wechat.demo.DemoManager.testwy:99 - https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx494a7bdca2d1deb1&redirect_uri=http%3A%2F%2Fysdtest.jlpay.com%2Fwx-agent2%2Fwechat%2Ftest%2Fwangyeshouqyuan.html&response_type=code&scope=snsapi_userinfo&state=1#wechat_redirect
+[http-nio-80-exec-4][49]2017-02-20 10:53:50.930 ERROR com.wechat.utils.HttpsGetData.httpRequest:160 - https request error:{}
+java.net.MalformedURLException: no protocol: "https://api.weixin.qq.com/sns/oauth2/access_token?appid=wx494a7bdca2d1deb1&secret=e5994e6918564af078d4ed7674e456fd&code=null&grant_type=authorization_code
+	at java.net.URL.<init>(Unknown Source)
+	at java.net.URL.<init>(Unknown Source)
+	at java.net.URL.<init>(Unknown Source)
+	at com.wechat.utils.HttpsGetData.httpRequest(HttpsGetData.java:119)
+	at com.wechat.utils.WeixinUtils.getOauth2AccessToken(WeixinUtils.java:179)
+	at com.wechat.demo.DemoManager.wangyeshouqyuan(DemoManager.java:76)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:133)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:116)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:827)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:738)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:897)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:970)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:861)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:622)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:846)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:230)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:197)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:474)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:349)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:783)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:798)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1434)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Unknown Source)
+[http-nio-80-exec-4][49]2017-02-20 10:53:50.932 DEBUG com.wechat.utils.WeixinUtils.getOauth2AccessToken:181 - null
+[http-nio-80-exec-4][49]2017-02-20 10:53:50.947 ERROR o.a.c.c.C.[.[.[.[dispatcherServlet].log:181 - Servlet.service() for servlet [dispatcherServlet] in context with path [/wx-agent2] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+java.lang.NullPointerException: null
+	at com.wechat.demo.DemoManager.wangyeshouqyuan(DemoManager.java:78)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:133)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:116)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:827)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:738)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:897)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:970)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:861)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:622)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:846)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:230)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:197)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:474)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:349)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:783)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:798)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1434)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Unknown Source)
+[pool-1-thread-1][29]2017-02-20 11:00:00.003 DEBUG com.wechat.utils.WeixinUtils.getToken:136 - {grant_type=client_credential, secret=e5994e6918564af078d4ed7674e456fd, appid=wx494a7bdca2d1deb1}
+[pool-1-thread-1][29]2017-02-20 11:00:00.003 DEBUG com.wechat.utils.HttpsGetData.sendGet:53 - GET请求的URL为：https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&secret=e5994e6918564af078d4ed7674e456fd&appid=wx494a7bdca2d1deb1
+[pool-1-thread-1][29]2017-02-20 11:00:00.824 DEBUG com.wechat.utils.HttpsGetData.sendGet:81 - 获取的结果为：{"access_token":"YmOl1fgrvDQR72wqIy6i9MD5PIQuzQ_ZT4iOrHmWbIvlUpscK1MNZs_sWgkdZ9v-wnIB5s7ivgNw9le8XN6tn8C93Ui7CNFctWtAVf6Dz4YbERo2YBiQu9aUlLCCvfUAPZTjAAAGQK","expires_in":7200}
+[pool-1-thread-1][29]2017-02-20 11:00:00.875 INFO  com.wechat.utils.WeixinUtils.getToken:146 - {access_token=YmOl1fgrvDQR72wqIy6i9MD5PIQuzQ_ZT4iOrHmWbIvlUpscK1MNZs_sWgkdZ9v-wnIB5s7ivgNw9le8XN6tn8C93Ui7CNFctWtAVf6Dz4YbERo2YBiQu9aUlLCCvfUAPZTjAAAGQK, expires_in=7200}
+[http-nio-80-exec-5][52]2017-02-20 11:01:41.997 ERROR com.wechat.utils.HttpsGetData.httpRequest:160 - https request error:{}
+java.net.MalformedURLException: no protocol: "https://api.weixin.qq.com/sns/oauth2/access_token?appid=wx494a7bdca2d1deb1&secret=e5994e6918564af078d4ed7674e456fd&code=null&grant_type=authorization_code
+	at java.net.URL.<init>(Unknown Source)
+	at java.net.URL.<init>(Unknown Source)
+	at java.net.URL.<init>(Unknown Source)
+	at com.wechat.utils.HttpsGetData.httpRequest(HttpsGetData.java:119)
+	at com.wechat.utils.WeixinUtils.getOauth2AccessToken(WeixinUtils.java:179)
+	at com.wechat.demo.DemoManager.wangyeshouqyuan(DemoManager.java:76)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:133)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:116)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:827)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:738)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:897)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:970)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:861)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:622)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:846)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:230)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:197)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:474)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:349)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:783)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:798)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1434)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Unknown Source)
+[http-nio-80-exec-5][52]2017-02-20 11:01:41.999 DEBUG com.wechat.utils.WeixinUtils.getOauth2AccessToken:181 - null
+[http-nio-80-exec-5][52]2017-02-20 11:01:42.000 ERROR o.a.c.c.C.[.[.[.[dispatcherServlet].log:181 - Servlet.service() for servlet [dispatcherServlet] in context with path [/wx-agent2] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+java.lang.NullPointerException: null
+	at com.wechat.demo.DemoManager.wangyeshouqyuan(DemoManager.java:78)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:133)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:116)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:827)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:738)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:897)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:970)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:861)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:622)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:846)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:230)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:197)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:474)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:349)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:783)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:798)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1434)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Unknown Source)
+[pool-1-thread-1][29]2017-02-20 12:00:00.014 DEBUG com.wechat.utils.WeixinUtils.getToken:136 - {grant_type=client_credential, secret=e5994e6918564af078d4ed7674e456fd, appid=wx494a7bdca2d1deb1}
+[pool-1-thread-1][29]2017-02-20 12:00:00.015 DEBUG com.wechat.utils.HttpsGetData.sendGet:53 - GET请求的URL为：https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&secret=e5994e6918564af078d4ed7674e456fd&appid=wx494a7bdca2d1deb1
+[pool-1-thread-1][29]2017-02-20 12:00:00.284 DEBUG com.wechat.utils.HttpsGetData.sendGet:81 - 获取的结果为：{"access_token":"48gwFA6Akl54JBLkr5UjsEgG5pcKU3QUSfoMI5FF5Kuq18irYheTLbj3jVMfjsu6Krk5cLQ4qEzqABzRmfYORqdq08NEagrZh_QMILp1QPG6wGVM69uodtLSuZzjqujTPUVfAIAUZA","expires_in":7200}
+[pool-1-thread-1][29]2017-02-20 12:00:00.285 INFO  com.wechat.utils.WeixinUtils.getToken:146 - {access_token=48gwFA6Akl54JBLkr5UjsEgG5pcKU3QUSfoMI5FF5Kuq18irYheTLbj3jVMfjsu6Krk5cLQ4qEzqABzRmfYORqdq08NEagrZh_QMILp1QPG6wGVM69uodtLSuZzjqujTPUVfAIAUZA, expires_in=7200}
+[pool-1-thread-1][29]2017-02-20 13:00:00.010 DEBUG com.wechat.utils.WeixinUtils.getToken:136 - {grant_type=client_credential, secret=e5994e6918564af078d4ed7674e456fd, appid=wx494a7bdca2d1deb1}
+[pool-1-thread-1][29]2017-02-20 13:00:00.011 DEBUG com.wechat.utils.HttpsGetData.sendGet:53 - GET请求的URL为：https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&secret=e5994e6918564af078d4ed7674e456fd&appid=wx494a7bdca2d1deb1
+[pool-1-thread-1][29]2017-02-20 13:00:01.661 DEBUG com.wechat.utils.HttpsGetData.sendGet:81 - 获取的结果为：{"access_token":"2gUpM1mXbSIXFBfIVjCdpY8ImQTod1iVxU0rbJFR9KeX7KNul2eAkQ-F-FCBClPeiA6Pa9WcxByFCylnUUSo808-0_s2ZoesjR3WObhbCEa3_fTiTc3FpikdNS55djmmDFZiAHAWYS","expires_in":7200}
+[pool-1-thread-1][29]2017-02-20 13:00:01.662 INFO  com.wechat.utils.WeixinUtils.getToken:146 - {access_token=2gUpM1mXbSIXFBfIVjCdpY8ImQTod1iVxU0rbJFR9KeX7KNul2eAkQ-F-FCBClPeiA6Pa9WcxByFCylnUUSo808-0_s2ZoesjR3WObhbCEa3_fTiTc3FpikdNS55djmmDFZiAHAWYS, expires_in=7200}
+[pool-1-thread-1][29]2017-02-20 14:00:00.006 DEBUG com.wechat.utils.WeixinUtils.getToken:136 - {grant_type=client_credential, secret=e5994e6918564af078d4ed7674e456fd, appid=wx494a7bdca2d1deb1}
+[pool-1-thread-1][29]2017-02-20 14:00:00.009 DEBUG com.wechat.utils.HttpsGetData.sendGet:53 - GET请求的URL为：https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&secret=e5994e6918564af078d4ed7674e456fd&appid=wx494a7bdca2d1deb1
+[pool-1-thread-1][29]2017-02-20 14:00:00.269 DEBUG com.wechat.utils.HttpsGetData.sendGet:81 - 获取的结果为：{"access_token":"bDGvw-ttstFpDUlrJB9iNxz-k_weM3_LwKj7HOj75muHb-zCOkjF-EPkahT3I4_pQxT1qVbcv7-LCI3s7nUepNSwi7vDMpvCaYZ59AZ9s03Tg9bcaGzOmwjyUtkI8gcqRYMiAHANUI","expires_in":7200}
+[pool-1-thread-1][29]2017-02-20 14:00:00.271 INFO  com.wechat.utils.WeixinUtils.getToken:146 - {access_token=bDGvw-ttstFpDUlrJB9iNxz-k_weM3_LwKj7HOj75muHb-zCOkjF-EPkahT3I4_pQxT1qVbcv7-LCI3s7nUepNSwi7vDMpvCaYZ59AZ9s03Tg9bcaGzOmwjyUtkI8gcqRYMiAHANUI, expires_in=7200}

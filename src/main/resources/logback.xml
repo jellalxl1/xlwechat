@@ -1,0 +1,26 @@
+<configuration>
+ <conversionRule conversionWord="tid"  converterClass="com.wechat.utils.ThreadIdConvert" /> 
+  <property name="LOG_FILE" value="./logs/wechat.log" />
+  <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+    <encoder>  
+      <pattern>[%t][%tid]%d{HH:mm:ss.SSS} %-5level %logger{36}.%M:%line - %msg%n</pattern>  
+    </encoder>
+  </appender>   
+  <appender name="FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
+    <File>${LOG_FILE}</File>
+    <encoder>  
+      <pattern>[%t][%tid]%d{yyyy-MM-dd HH:mm:ss.SSS} %-5level %logger{36}.%M:%line - %m%n</pattern>  
+    </encoder>
+    <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">  
+      <fileNamePattern>${LOG_FILE}.%d{yyyy-MM-dd}</fileNamePattern>  
+    </rollingPolicy>
+  </appender>
+  <root level="INFO">             
+    <appender-ref ref="STDOUT" />
+    <appender-ref ref="FILE" />
+  </root>
+  <logger name="org.hibernate.hql.internal.ast.HqlSqlWalker" level="ERROR"/>
+  <logger name="org.springframework" level="WARN"/>
+  <logger name="org.hibernate.SQL" level="WARN"/>
+  <logger name="com.wechat" level="DEBUG"/>
+</configuration>

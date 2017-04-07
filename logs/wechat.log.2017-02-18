@@ -1,0 +1,155 @@
+[pool-1-thread-1][29]2017-02-18 00:00:00.001 DEBUG com.wechat.utils.WeixinUtils.getToken:136 - {grant_type=client_credential, secret=e5994e6918564af078d4ed7674e456fd, appid=wx494a7bdca2d1deb1}
+[pool-1-thread-1][29]2017-02-18 00:00:00.006 DEBUG com.wechat.utils.HttpsGetData.sendGet:53 - GET请求的URL为：https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&secret=e5994e6918564af078d4ed7674e456fd&appid=wx494a7bdca2d1deb1
+[pool-1-thread-1][29]2017-02-18 00:00:00.253 DEBUG com.wechat.utils.HttpsGetData.sendGet:81 - 获取的结果为：{"access_token":"f7-DdnehX4aii_yHwR9m5ceGLPXbKTkxX2ay_7HNaPedfHuL9ELtuYqgX2ZZ0mbw06NJ5Ln_NOKhygA2uHKDBwORHhMTXUpcm1tgkYOV9m3kgSPghD2ep6Rf3P3LRgezPIHdAFAYRQ","expires_in":7200}
+[pool-1-thread-1][29]2017-02-18 00:00:00.254 INFO  com.wechat.utils.WeixinUtils.getToken:146 - {access_token=f7-DdnehX4aii_yHwR9m5ceGLPXbKTkxX2ay_7HNaPedfHuL9ELtuYqgX2ZZ0mbw06NJ5Ln_NOKhygA2uHKDBwORHhMTXUpcm1tgkYOV9m3kgSPghD2ep6Rf3P3LRgezPIHdAFAYRQ, expires_in=7200}
+[pool-1-thread-1][29]2017-02-18 01:00:00.001 DEBUG com.wechat.utils.WeixinUtils.getToken:136 - {grant_type=client_credential, secret=e5994e6918564af078d4ed7674e456fd, appid=wx494a7bdca2d1deb1}
+[pool-1-thread-1][29]2017-02-18 01:00:00.001 DEBUG com.wechat.utils.HttpsGetData.sendGet:53 - GET请求的URL为：https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&secret=e5994e6918564af078d4ed7674e456fd&appid=wx494a7bdca2d1deb1
+[pool-1-thread-1][29]2017-02-18 01:00:00.223 DEBUG com.wechat.utils.HttpsGetData.sendGet:81 - 获取的结果为：{"access_token":"W6khDRntmClPe4qsxMjVjY0lQTpILYoBcbUCcIIeQNq1nzgcZPn25l-8ctakcvo8Uz6nXVeLc_m7zvERQNhglp3Jt0DUCGU8wzf-arrxQCkxPyFzecXnjUC5JDfA0M8ZDKUfADAVCM","expires_in":7200}
+[pool-1-thread-1][29]2017-02-18 01:00:00.223 INFO  com.wechat.utils.WeixinUtils.getToken:146 - {access_token=W6khDRntmClPe4qsxMjVjY0lQTpILYoBcbUCcIIeQNq1nzgcZPn25l-8ctakcvo8Uz6nXVeLc_m7zvERQNhglp3Jt0DUCGU8wzf-arrxQCkxPyFzecXnjUC5JDfA0M8ZDKUfADAVCM, expires_in=7200}
+[pool-1-thread-1][29]2017-02-18 02:00:00.001 DEBUG com.wechat.utils.WeixinUtils.getToken:136 - {grant_type=client_credential, secret=e5994e6918564af078d4ed7674e456fd, appid=wx494a7bdca2d1deb1}
+[pool-1-thread-1][29]2017-02-18 02:00:00.002 DEBUG com.wechat.utils.HttpsGetData.sendGet:53 - GET请求的URL为：https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&secret=e5994e6918564af078d4ed7674e456fd&appid=wx494a7bdca2d1deb1
+[pool-1-thread-1][29]2017-02-18 02:00:00.279 DEBUG com.wechat.utils.HttpsGetData.sendGet:81 - 获取的结果为：{"access_token":"LCjrG9HC8rBZOupWXXBkVKf-ZEQTUnhSftFKYiDwV7xPZNbUg26-0us-OY85xo3EzJVYTullFvTHxN79JduCFeAfVLTkqYDHHmuxiNBtrsXfdqYtnMpQlF59Wtk-d46NMOXfAGATVE","expires_in":7200}
+[pool-1-thread-1][29]2017-02-18 02:00:00.279 INFO  com.wechat.utils.WeixinUtils.getToken:146 - {access_token=LCjrG9HC8rBZOupWXXBkVKf-ZEQTUnhSftFKYiDwV7xPZNbUg26-0us-OY85xo3EzJVYTullFvTHxN79JduCFeAfVLTkqYDHHmuxiNBtrsXfdqYtnMpQlF59Wtk-d46NMOXfAGATVE, expires_in=7200}
+[pool-1-thread-1][29]2017-02-18 03:00:00.002 DEBUG com.wechat.utils.WeixinUtils.getToken:136 - {grant_type=client_credential, secret=e5994e6918564af078d4ed7674e456fd, appid=wx494a7bdca2d1deb1}
+[pool-1-thread-1][29]2017-02-18 03:00:00.003 DEBUG com.wechat.utils.HttpsGetData.sendGet:53 - GET请求的URL为：https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&secret=e5994e6918564af078d4ed7674e456fd&appid=wx494a7bdca2d1deb1
+[pool-1-thread-1][29]2017-02-18 03:00:00.262 DEBUG com.wechat.utils.HttpsGetData.sendGet:81 - 获取的结果为：{"access_token":"aepSNh86_jdr_mwvTLmxnxOSwreEUUHRZBQDemGw4AT9k-DTuKAXtbuxlWBjsK9vTpj5kj2k2myeea5voMs6lK-8fu385QzT3JxbuXip8CNoq48ZhVIhU98e7tY-e1nCDWIgAIAPIU","expires_in":7200}
+[pool-1-thread-1][29]2017-02-18 03:00:00.263 INFO  com.wechat.utils.WeixinUtils.getToken:146 - {access_token=aepSNh86_jdr_mwvTLmxnxOSwreEUUHRZBQDemGw4AT9k-DTuKAXtbuxlWBjsK9vTpj5kj2k2myeea5voMs6lK-8fu385QzT3JxbuXip8CNoq48ZhVIhU98e7tY-e1nCDWIgAIAPIU, expires_in=7200}
+[pool-1-thread-1][29]2017-02-18 04:00:00.001 DEBUG com.wechat.utils.WeixinUtils.getToken:136 - {grant_type=client_credential, secret=e5994e6918564af078d4ed7674e456fd, appid=wx494a7bdca2d1deb1}
+[pool-1-thread-1][29]2017-02-18 04:00:00.002 DEBUG com.wechat.utils.HttpsGetData.sendGet:53 - GET请求的URL为：https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&secret=e5994e6918564af078d4ed7674e456fd&appid=wx494a7bdca2d1deb1
+[pool-1-thread-1][29]2017-02-18 04:00:00.232 DEBUG com.wechat.utils.HttpsGetData.sendGet:81 - 获取的结果为：{"access_token":"2gUpM1mXbSIXFBfIVjCdpUiuCBgG3ODkcT68E_CqLU3gBVjKYFfK67RTXDMStJKMJmUvoCnRWq3AHuigJYHnQSImHd9F6iPLtvCHA4t6iBQIOTgAEAUAF","expires_in":7200}
+[pool-1-thread-1][29]2017-02-18 04:00:00.233 INFO  com.wechat.utils.WeixinUtils.getToken:146 - {access_token=2gUpM1mXbSIXFBfIVjCdpUiuCBgG3ODkcT68E_CqLU3gBVjKYFfK67RTXDMStJKMJmUvoCnRWq3AHuigJYHnQSImHd9F6iPLtvCHA4t6iBQIOTgAEAUAF, expires_in=7200}
+[pool-1-thread-1][29]2017-02-18 05:00:00.000 DEBUG com.wechat.utils.WeixinUtils.getToken:136 - {grant_type=client_credential, secret=e5994e6918564af078d4ed7674e456fd, appid=wx494a7bdca2d1deb1}
+[pool-1-thread-1][29]2017-02-18 05:00:00.001 DEBUG com.wechat.utils.HttpsGetData.sendGet:53 - GET请求的URL为：https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&secret=e5994e6918564af078d4ed7674e456fd&appid=wx494a7bdca2d1deb1
+[pool-1-thread-1][29]2017-02-18 05:00:00.250 DEBUG com.wechat.utils.HttpsGetData.sendGet:81 - 获取的结果为：{"access_token":"fUBij7OA4NZW87DndjalGaRLH0vHn4e5or12e1klIY1YrtTD4K-fhEWD1A-kTxB-a1zMfbLLigychanQNDQwlIl2y87-nWHC-XXBG1rBub606pSUWfpGnvSqO3psJkw8ONOcAGAIHI","expires_in":7200}
+[pool-1-thread-1][29]2017-02-18 05:00:00.251 INFO  com.wechat.utils.WeixinUtils.getToken:146 - {access_token=fUBij7OA4NZW87DndjalGaRLH0vHn4e5or12e1klIY1YrtTD4K-fhEWD1A-kTxB-a1zMfbLLigychanQNDQwlIl2y87-nWHC-XXBG1rBub606pSUWfpGnvSqO3psJkw8ONOcAGAIHI, expires_in=7200}
+[pool-1-thread-1][29]2017-02-18 06:00:00.002 DEBUG com.wechat.utils.WeixinUtils.getToken:136 - {grant_type=client_credential, secret=e5994e6918564af078d4ed7674e456fd, appid=wx494a7bdca2d1deb1}
+[pool-1-thread-1][29]2017-02-18 06:00:00.003 DEBUG com.wechat.utils.HttpsGetData.sendGet:53 - GET请求的URL为：https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&secret=e5994e6918564af078d4ed7674e456fd&appid=wx494a7bdca2d1deb1
+[pool-1-thread-1][29]2017-02-18 06:00:00.242 DEBUG com.wechat.utils.HttpsGetData.sendGet:81 - 获取的结果为：{"access_token":"9_QnCVSdEL3LWe3CPs49KkktAbbNnBK8b4nQwhUyAxuMP4nisVL28bg3NJGcRKeAahOpeA41W8uJH0kPmfqflrtNGX9ShJWA_VLkOi2PsMnmzKRDGVPN0XKVD7-7qwwwCQSiAGAKYA","expires_in":7200}
+[pool-1-thread-1][29]2017-02-18 06:00:00.243 INFO  com.wechat.utils.WeixinUtils.getToken:146 - {access_token=9_QnCVSdEL3LWe3CPs49KkktAbbNnBK8b4nQwhUyAxuMP4nisVL28bg3NJGcRKeAahOpeA41W8uJH0kPmfqflrtNGX9ShJWA_VLkOi2PsMnmzKRDGVPN0XKVD7-7qwwwCQSiAGAKYA, expires_in=7200}
+[pool-1-thread-1][29]2017-02-18 07:00:00.001 DEBUG com.wechat.utils.WeixinUtils.getToken:136 - {grant_type=client_credential, secret=e5994e6918564af078d4ed7674e456fd, appid=wx494a7bdca2d1deb1}
+[pool-1-thread-1][29]2017-02-18 07:00:00.001 DEBUG com.wechat.utils.HttpsGetData.sendGet:53 - GET请求的URL为：https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&secret=e5994e6918564af078d4ed7674e456fd&appid=wx494a7bdca2d1deb1
+[pool-1-thread-1][29]2017-02-18 07:00:00.253 DEBUG com.wechat.utils.HttpsGetData.sendGet:81 - 获取的结果为：{"access_token":"xdbzyR7gACkdbytecFWKfDmqt5HcJ9mXjPsMcmVKvGCicKErGISgwaPhO0U6o7l8_Q7I4434kV6TSDBaJrp1C99msDDp0DERvSF3QqUyOSLWzJiGBFyWtudoMwf6_4AEQBGcAGAWHM","expires_in":7200}
+[pool-1-thread-1][29]2017-02-18 07:00:00.254 INFO  com.wechat.utils.WeixinUtils.getToken:146 - {access_token=xdbzyR7gACkdbytecFWKfDmqt5HcJ9mXjPsMcmVKvGCicKErGISgwaPhO0U6o7l8_Q7I4434kV6TSDBaJrp1C99msDDp0DERvSF3QqUyOSLWzJiGBFyWtudoMwf6_4AEQBGcAGAWHM, expires_in=7200}
+[pool-1-thread-1][29]2017-02-18 08:00:00.003 DEBUG com.wechat.utils.WeixinUtils.getToken:136 - {grant_type=client_credential, secret=e5994e6918564af078d4ed7674e456fd, appid=wx494a7bdca2d1deb1}
+[pool-1-thread-1][29]2017-02-18 08:00:00.003 DEBUG com.wechat.utils.HttpsGetData.sendGet:53 - GET请求的URL为：https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&secret=e5994e6918564af078d4ed7674e456fd&appid=wx494a7bdca2d1deb1
+[pool-1-thread-1][29]2017-02-18 08:00:00.237 DEBUG com.wechat.utils.HttpsGetData.sendGet:81 - 获取的结果为：{"access_token":"aepSNh86_jdr_mwvTLmxn-AVWgTSIApm1ayeBJw1QT-Z0Kd4Q8kyiB34amvu3NFhHnaIIMNjlZP7a_e2_t3mSJ2gagznQ3IzETo0Ve-tYhgGXlAuXQ_Yd7FLj3TXiAZdDVPeABAYQK","expires_in":7200}
+[pool-1-thread-1][29]2017-02-18 08:00:00.238 INFO  com.wechat.utils.WeixinUtils.getToken:146 - {access_token=aepSNh86_jdr_mwvTLmxn-AVWgTSIApm1ayeBJw1QT-Z0Kd4Q8kyiB34amvu3NFhHnaIIMNjlZP7a_e2_t3mSJ2gagznQ3IzETo0Ve-tYhgGXlAuXQ_Yd7FLj3TXiAZdDVPeABAYQK, expires_in=7200}
+[pool-1-thread-1][29]2017-02-18 09:00:00.001 DEBUG com.wechat.utils.WeixinUtils.getToken:136 - {grant_type=client_credential, secret=e5994e6918564af078d4ed7674e456fd, appid=wx494a7bdca2d1deb1}
+[pool-1-thread-1][29]2017-02-18 09:00:00.002 DEBUG com.wechat.utils.HttpsGetData.sendGet:53 - GET请求的URL为：https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&secret=e5994e6918564af078d4ed7674e456fd&appid=wx494a7bdca2d1deb1
+[pool-1-thread-1][29]2017-02-18 09:00:00.246 DEBUG com.wechat.utils.HttpsGetData.sendGet:81 - 获取的结果为：{"access_token":"lvOeny5WdOuWnh9TOiTfNze8n03CKNsEY8VXWZs1Xjn4C6IxWaDR9LF6wnp5DNEuNyvzzqnuT42YYkcPOz4yDpZFsqN0Kf4dhcsxzznPGfsaUmxtiFBAiEDNrbplSh_oGYJgAFAKCN","expires_in":7200}
+[pool-1-thread-1][29]2017-02-18 09:00:00.247 INFO  com.wechat.utils.WeixinUtils.getToken:146 - {access_token=lvOeny5WdOuWnh9TOiTfNze8n03CKNsEY8VXWZs1Xjn4C6IxWaDR9LF6wnp5DNEuNyvzzqnuT42YYkcPOz4yDpZFsqN0Kf4dhcsxzznPGfsaUmxtiFBAiEDNrbplSh_oGYJgAFAKCN, expires_in=7200}
+[pool-1-thread-1][29]2017-02-18 10:00:00.000 DEBUG com.wechat.utils.WeixinUtils.getToken:136 - {grant_type=client_credential, secret=e5994e6918564af078d4ed7674e456fd, appid=wx494a7bdca2d1deb1}
+[pool-1-thread-1][29]2017-02-18 10:00:00.000 DEBUG com.wechat.utils.HttpsGetData.sendGet:53 - GET请求的URL为：https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&secret=e5994e6918564af078d4ed7674e456fd&appid=wx494a7bdca2d1deb1
+[pool-1-thread-1][29]2017-02-18 10:00:00.248 DEBUG com.wechat.utils.HttpsGetData.sendGet:81 - 获取的结果为：{"access_token":"SchSe6IZ9HPwwtjbuUmo-I7SHhAf-DQo0ZYlUeJtb-yQ9-TRhzoCB4GmtaoWk2--2q3hDWetZMaucBzem8ikPeMfHkSaCUYWzWivSCahsG22oKRDyjC4t1Yq27Y5dtngSFIjACAHUX","expires_in":7200}
+[pool-1-thread-1][29]2017-02-18 10:00:00.248 INFO  com.wechat.utils.WeixinUtils.getToken:146 - {access_token=SchSe6IZ9HPwwtjbuUmo-I7SHhAf-DQo0ZYlUeJtb-yQ9-TRhzoCB4GmtaoWk2--2q3hDWetZMaucBzem8ikPeMfHkSaCUYWzWivSCahsG22oKRDyjC4t1Yq27Y5dtngSFIjACAHUX, expires_in=7200}
+[pool-1-thread-1][29]2017-02-18 11:00:00.000 DEBUG com.wechat.utils.WeixinUtils.getToken:136 - {grant_type=client_credential, secret=e5994e6918564af078d4ed7674e456fd, appid=wx494a7bdca2d1deb1}
+[pool-1-thread-1][29]2017-02-18 11:00:00.001 DEBUG com.wechat.utils.HttpsGetData.sendGet:53 - GET请求的URL为：https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&secret=e5994e6918564af078d4ed7674e456fd&appid=wx494a7bdca2d1deb1
+[pool-1-thread-1][29]2017-02-18 11:00:00.244 DEBUG com.wechat.utils.HttpsGetData.sendGet:81 - 获取的结果为：{"access_token":"zvs9w4FL0ie5Klf9ygRwm8W4TW07oyJ0G4xBefrR-usz89m_2IsYO1MExG08ih_a3ZGnX8CKi8aDCGLfy2dYjJHxNZapEQThb_gqyTQn4jp7BI70-asM0TKUWlIPqZulJKVaAFATUF","expires_in":7200}
+[pool-1-thread-1][29]2017-02-18 11:00:00.244 INFO  com.wechat.utils.WeixinUtils.getToken:146 - {access_token=zvs9w4FL0ie5Klf9ygRwm8W4TW07oyJ0G4xBefrR-usz89m_2IsYO1MExG08ih_a3ZGnX8CKi8aDCGLfy2dYjJHxNZapEQThb_gqyTQn4jp7BI70-asM0TKUWlIPqZulJKVaAFATUF, expires_in=7200}
+[pool-1-thread-1][29]2017-02-18 12:00:00.001 DEBUG com.wechat.utils.WeixinUtils.getToken:136 - {grant_type=client_credential, secret=e5994e6918564af078d4ed7674e456fd, appid=wx494a7bdca2d1deb1}
+[pool-1-thread-1][29]2017-02-18 12:00:00.002 DEBUG com.wechat.utils.HttpsGetData.sendGet:53 - GET请求的URL为：https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&secret=e5994e6918564af078d4ed7674e456fd&appid=wx494a7bdca2d1deb1
+[pool-1-thread-1][29]2017-02-18 12:00:00.230 DEBUG com.wechat.utils.HttpsGetData.sendGet:81 - 获取的结果为：{"access_token":"UTIULKtZxfOj2qFGVWLSuM5PTAPiP0AiFIIjdZv5on6y_k__E_YEFRK_8OUIWkZQHc2xXIM9G30UiPgfM5imM666Ybpbrci1wt1-X5z__HZ13qlP6R4abJfv9oXB8V1HJBBcAIAWOO","expires_in":7200}
+[pool-1-thread-1][29]2017-02-18 12:00:00.231 INFO  com.wechat.utils.WeixinUtils.getToken:146 - {access_token=UTIULKtZxfOj2qFGVWLSuM5PTAPiP0AiFIIjdZv5on6y_k__E_YEFRK_8OUIWkZQHc2xXIM9G30UiPgfM5imM666Ybpbrci1wt1-X5z__HZ13qlP6R4abJfv9oXB8V1HJBBcAIAWOO, expires_in=7200}
+[pool-1-thread-1][29]2017-02-18 13:00:00.001 DEBUG com.wechat.utils.WeixinUtils.getToken:136 - {grant_type=client_credential, secret=e5994e6918564af078d4ed7674e456fd, appid=wx494a7bdca2d1deb1}
+[pool-1-thread-1][29]2017-02-18 13:00:00.002 DEBUG com.wechat.utils.HttpsGetData.sendGet:53 - GET请求的URL为：https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&secret=e5994e6918564af078d4ed7674e456fd&appid=wx494a7bdca2d1deb1
+[pool-1-thread-1][29]2017-02-18 13:00:00.232 DEBUG com.wechat.utils.HttpsGetData.sendGet:81 - 获取的结果为：{"access_token":"Zvk6ZF8eZIdI2KPpjZoG9c-KZ7ziMifKuCPCe6_4CNmCh84hh_jt6xbK6qgWoeQxxIEf_j0EXlLtZG7DVdYUzu_B_gaPu6b8hX2if7FVCwmaCi1l1bHps7LJcqpR6RQzGUVbAJAJXY","expires_in":7200}
+[pool-1-thread-1][29]2017-02-18 13:00:00.233 INFO  com.wechat.utils.WeixinUtils.getToken:146 - {access_token=Zvk6ZF8eZIdI2KPpjZoG9c-KZ7ziMifKuCPCe6_4CNmCh84hh_jt6xbK6qgWoeQxxIEf_j0EXlLtZG7DVdYUzu_B_gaPu6b8hX2if7FVCwmaCi1l1bHps7LJcqpR6RQzGUVbAJAJXY, expires_in=7200}
+[pool-1-thread-1][29]2017-02-18 14:00:00.001 DEBUG com.wechat.utils.WeixinUtils.getToken:136 - {grant_type=client_credential, secret=e5994e6918564af078d4ed7674e456fd, appid=wx494a7bdca2d1deb1}
+[pool-1-thread-1][29]2017-02-18 14:00:00.002 DEBUG com.wechat.utils.HttpsGetData.sendGet:53 - GET请求的URL为：https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&secret=e5994e6918564af078d4ed7674e456fd&appid=wx494a7bdca2d1deb1
+[pool-1-thread-1][29]2017-02-18 14:00:00.225 DEBUG com.wechat.utils.HttpsGetData.sendGet:81 - 获取的结果为：{"access_token":"ZVHUvPTExUDLPfdqR4vR3exT1-F9d0iTlpY___ujJbH7jlquu9sNoKzHS18zYu8lFgKxEx7c5nlBpfBRQuF1jXhth8hkZ_LI2iQCSighUE0Du_r87mf0aHIVVXmKES3jFVViABAJZZ","expires_in":7200}
+[pool-1-thread-1][29]2017-02-18 14:00:00.226 INFO  com.wechat.utils.WeixinUtils.getToken:146 - {access_token=ZVHUvPTExUDLPfdqR4vR3exT1-F9d0iTlpY___ujJbH7jlquu9sNoKzHS18zYu8lFgKxEx7c5nlBpfBRQuF1jXhth8hkZ_LI2iQCSighUE0Du_r87mf0aHIVVXmKES3jFVViABAJZZ, expires_in=7200}
+[pool-1-thread-1][29]2017-02-18 15:00:00.001 DEBUG com.wechat.utils.WeixinUtils.getToken:136 - {grant_type=client_credential, secret=e5994e6918564af078d4ed7674e456fd, appid=wx494a7bdca2d1deb1}
+[pool-1-thread-1][29]2017-02-18 15:00:00.002 DEBUG com.wechat.utils.HttpsGetData.sendGet:53 - GET请求的URL为：https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&secret=e5994e6918564af078d4ed7674e456fd&appid=wx494a7bdca2d1deb1
+[pool-1-thread-1][29]2017-02-18 15:00:00.234 DEBUG com.wechat.utils.HttpsGetData.sendGet:81 - 获取的结果为：{"access_token":"O8lzmcApURQY4o8PJJgKINLFtgqoTKPQwYHeSCU2xkPEqmoU2kNbp_6NO0jYxonma8D1PSJmGrA0KAtfZIAdIcY7yxV2BqaE6RNX7oVLO-2_TedY-b8iV9zN53vfex3IQMYjADAFBN","expires_in":7200}
+[pool-1-thread-1][29]2017-02-18 15:00:00.235 INFO  com.wechat.utils.WeixinUtils.getToken:146 - {access_token=O8lzmcApURQY4o8PJJgKINLFtgqoTKPQwYHeSCU2xkPEqmoU2kNbp_6NO0jYxonma8D1PSJmGrA0KAtfZIAdIcY7yxV2BqaE6RNX7oVLO-2_TedY-b8iV9zN53vfex3IQMYjADAFBN, expires_in=7200}
+[pool-1-thread-1][29]2017-02-18 16:00:00.001 DEBUG com.wechat.utils.WeixinUtils.getToken:136 - {grant_type=client_credential, secret=e5994e6918564af078d4ed7674e456fd, appid=wx494a7bdca2d1deb1}
+[pool-1-thread-1][29]2017-02-18 16:00:00.002 DEBUG com.wechat.utils.HttpsGetData.sendGet:53 - GET请求的URL为：https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&secret=e5994e6918564af078d4ed7674e456fd&appid=wx494a7bdca2d1deb1
+[pool-1-thread-1][29]2017-02-18 16:00:00.234 DEBUG com.wechat.utils.HttpsGetData.sendGet:81 - 获取的结果为：{"access_token":"246-VN6phFSvbDe03cz4GPzUJ9Mms3CgXwVY-XuxStZqnEuASLE5RgRLTGMDEingUs8sslsXvgvyRRt6vFXOwetombKzhdNpfip8eUzOCHq15ICct-QRFiPMOWSqzVhHWOHaAJARJC","expires_in":7200}
+[pool-1-thread-1][29]2017-02-18 16:00:00.234 INFO  com.wechat.utils.WeixinUtils.getToken:146 - {access_token=246-VN6phFSvbDe03cz4GPzUJ9Mms3CgXwVY-XuxStZqnEuASLE5RgRLTGMDEingUs8sslsXvgvyRRt6vFXOwetombKzhdNpfip8eUzOCHq15ICct-QRFiPMOWSqzVhHWOHaAJARJC, expires_in=7200}
+[pool-1-thread-1][29]2017-02-18 17:00:00.001 DEBUG com.wechat.utils.WeixinUtils.getToken:136 - {grant_type=client_credential, secret=e5994e6918564af078d4ed7674e456fd, appid=wx494a7bdca2d1deb1}
+[pool-1-thread-1][29]2017-02-18 17:00:00.002 DEBUG com.wechat.utils.HttpsGetData.sendGet:53 - GET请求的URL为：https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&secret=e5994e6918564af078d4ed7674e456fd&appid=wx494a7bdca2d1deb1
+[pool-1-thread-1][29]2017-02-18 17:00:00.279 DEBUG com.wechat.utils.HttpsGetData.sendGet:81 - 获取的结果为：{"access_token":"cabGQpp6pvrbcgnwDNYbIDJ19eE4SWNPbjLTYwdWOoJtCZOLunSuilMUM7MG46OwDXosA8jIeFr5zBgwLbakJSCCnviNku6EW8g9oa6YxhEAJ2oo4OF2v4IAjvx2raq8QBNiAHADOA","expires_in":7200}
+[pool-1-thread-1][29]2017-02-18 17:00:00.279 INFO  com.wechat.utils.WeixinUtils.getToken:146 - {access_token=cabGQpp6pvrbcgnwDNYbIDJ19eE4SWNPbjLTYwdWOoJtCZOLunSuilMUM7MG46OwDXosA8jIeFr5zBgwLbakJSCCnviNku6EW8g9oa6YxhEAJ2oo4OF2v4IAjvx2raq8QBNiAHADOA, expires_in=7200}
+[pool-1-thread-1][29]2017-02-18 18:00:00.001 DEBUG com.wechat.utils.WeixinUtils.getToken:136 - {grant_type=client_credential, secret=e5994e6918564af078d4ed7674e456fd, appid=wx494a7bdca2d1deb1}
+[pool-1-thread-1][29]2017-02-18 18:00:00.002 DEBUG com.wechat.utils.HttpsGetData.sendGet:53 - GET请求的URL为：https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&secret=e5994e6918564af078d4ed7674e456fd&appid=wx494a7bdca2d1deb1
+[pool-1-thread-1][29]2017-02-18 18:00:00.242 DEBUG com.wechat.utils.HttpsGetData.sendGet:81 - 获取的结果为：{"access_token":"sLL26tBuxyFJSPf3RCs4kvwfgmNyvKBBgvTIBJmDb4gJF69dxy-8pi1DFsBbt14e35KhcTWDVvCwVVwNNPhJab4d1X42aS3F4LZC3F860mQHXXiADACSS","expires_in":7200}
+[pool-1-thread-1][29]2017-02-18 18:00:00.243 INFO  com.wechat.utils.WeixinUtils.getToken:146 - {access_token=sLL26tBuxyFJSPf3RCs4kvwfgmNyvKBBgvTIBJmDb4gJF69dxy-8pi1DFsBbt14e35KhcTWDVvCwVVwNNPhJab4d1X42aS3F4LZC3F860mQHXXiADACSS, expires_in=7200}
+[pool-1-thread-1][29]2017-02-18 19:00:00.001 DEBUG com.wechat.utils.WeixinUtils.getToken:136 - {grant_type=client_credential, secret=e5994e6918564af078d4ed7674e456fd, appid=wx494a7bdca2d1deb1}
+[pool-1-thread-1][29]2017-02-18 19:00:00.002 DEBUG com.wechat.utils.HttpsGetData.sendGet:53 - GET请求的URL为：https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&secret=e5994e6918564af078d4ed7674e456fd&appid=wx494a7bdca2d1deb1
+[pool-1-thread-1][29]2017-02-18 19:00:00.235 DEBUG com.wechat.utils.HttpsGetData.sendGet:81 - 获取的结果为：{"access_token":"1vO_flIPVpwz-TBznJ-2Vr1NLYL-2Z3MLIPd_Pal_WcIc-YIXe0GO7nS5wpx0d7maCxzEfWNmvNxLnixXS28K13-bJOiYU2DW6efDKk_y3URzv6AOg_IoZVw14n3aFbrKIPbABACAH","expires_in":7200}
+[pool-1-thread-1][29]2017-02-18 19:00:00.236 INFO  com.wechat.utils.WeixinUtils.getToken:146 - {access_token=1vO_flIPVpwz-TBznJ-2Vr1NLYL-2Z3MLIPd_Pal_WcIc-YIXe0GO7nS5wpx0d7maCxzEfWNmvNxLnixXS28K13-bJOiYU2DW6efDKk_y3URzv6AOg_IoZVw14n3aFbrKIPbABACAH, expires_in=7200}
+[pool-1-thread-1][29]2017-02-18 20:00:00.007 DEBUG com.wechat.utils.WeixinUtils.getToken:136 - {grant_type=client_credential, secret=e5994e6918564af078d4ed7674e456fd, appid=wx494a7bdca2d1deb1}
+[pool-1-thread-1][29]2017-02-18 20:00:00.008 DEBUG com.wechat.utils.HttpsGetData.sendGet:53 - GET请求的URL为：https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&secret=e5994e6918564af078d4ed7674e456fd&appid=wx494a7bdca2d1deb1
+[pool-1-thread-1][29]2017-02-18 20:00:00.488 DEBUG com.wechat.utils.HttpsGetData.sendGet:81 - 获取的结果为：{"access_token":"cc9uOBdyD9K2b5hWffa_jPxyuruav6IL4ON01JHcDn2npTUgtxd1Q4cZ2k72d3Ogr4Vm0vDwHdbVVWJoKVrtFen6dFf9hl1QyQ1Wtb1bPTwNChtEXipEXky6JkHxvuf5FFMeAAAZZG","expires_in":7200}
+[pool-1-thread-1][29]2017-02-18 20:00:00.489 INFO  com.wechat.utils.WeixinUtils.getToken:146 - {access_token=cc9uOBdyD9K2b5hWffa_jPxyuruav6IL4ON01JHcDn2npTUgtxd1Q4cZ2k72d3Ogr4Vm0vDwHdbVVWJoKVrtFen6dFf9hl1QyQ1Wtb1bPTwNChtEXipEXky6JkHxvuf5FFMeAAAZZG, expires_in=7200}
+[pool-1-thread-1][29]2017-02-18 21:00:00.001 DEBUG com.wechat.utils.WeixinUtils.getToken:136 - {grant_type=client_credential, secret=e5994e6918564af078d4ed7674e456fd, appid=wx494a7bdca2d1deb1}
+[pool-1-thread-1][29]2017-02-18 21:00:00.002 DEBUG com.wechat.utils.HttpsGetData.sendGet:53 - GET请求的URL为：https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&secret=e5994e6918564af078d4ed7674e456fd&appid=wx494a7bdca2d1deb1
+[pool-1-thread-1][29]2017-02-18 21:00:00.231 DEBUG com.wechat.utils.HttpsGetData.sendGet:81 - 获取的结果为：{"access_token":"EoAV3IFi6LlW-0OhTT7Tbth1zIQSX7w0bpt3MRZqwl2Pe1mA32CD1vGsh5OJ9qZlVbpsMl7cSb39XCr1ME1UJtobFMsIFjAhYn2eng3Lxl-TSrXB7ImsdeBnBBBiMJt9VIEfAAAPCY","expires_in":7200}
+[pool-1-thread-1][29]2017-02-18 21:00:00.231 INFO  com.wechat.utils.WeixinUtils.getToken:146 - {access_token=EoAV3IFi6LlW-0OhTT7Tbth1zIQSX7w0bpt3MRZqwl2Pe1mA32CD1vGsh5OJ9qZlVbpsMl7cSb39XCr1ME1UJtobFMsIFjAhYn2eng3Lxl-TSrXB7ImsdeBnBBBiMJt9VIEfAAAPCY, expires_in=7200}
+[http-nio-80-exec-8][113]2017-02-18 21:16:11.600 INFO  com.wechat.service.CoreService.processRequest:43 - 微信发送到本服务消息为：{FromUserName=oqOMPxNa7Kvm_9sZNGA0ORLyWWsA, EventKey=12, Event=CLICK, CreateTime=1487423815, ToUserName=gh_f44957453df9, MsgType=event}
+[http-nio-80-exec-8][113]2017-02-18 21:16:11.604 INFO  com.wechat.controller.CoreController.postReceiveWechatMsg:62 - 回应微信消息为：<xml>
+  <ToUserName><![CDATA[oqOMPxNa7Kvm_9sZNGA0ORLyWWsA]]></ToUserName>
+  <FromUserName><![CDATA[gh_f44957453df9]]></FromUserName>
+  <CreateTime><![CDATA[1487423771603]]></CreateTime>
+  <MsgType><![CDATA[text]]></MsgType>
+  <Content><![CDATA[未知的消息类型！]]></Content>
+</xml>
+[http-nio-80-exec-9][114]2017-02-18 21:16:21.135 DEBUG com.wechat.controller.CoreController.getReceiveWechatMsg:30 - 对接微信成功！
+[http-nio-80-exec-9][114]2017-02-18 21:16:21.156 ERROR o.a.c.c.C.[.[.[.[dispatcherServlet].log:181 - Servlet.service() for servlet [dispatcherServlet] in context with path [/wx-agent2] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+java.lang.NullPointerException: null
+	at java.util.ComparableTimSort.countRunAndMakeAscending(Unknown Source)
+	at java.util.ComparableTimSort.sort(Unknown Source)
+	at java.util.ComparableTimSort.sort(Unknown Source)
+	at java.util.Arrays.sort(Unknown Source)
+	at com.wechat.utils.SignUtil.checkSignature(SignUtil.java:30)
+	at com.wechat.controller.CoreController.getReceiveWechatMsg(CoreController.java:42)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:133)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:116)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:827)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:738)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:897)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:970)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:861)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:622)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:846)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:230)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:197)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:474)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:349)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:783)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:798)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1434)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Unknown Source)
+[pool-1-thread-1][29]2017-02-18 22:00:00.001 DEBUG com.wechat.utils.WeixinUtils.getToken:136 - {grant_type=client_credential, secret=e5994e6918564af078d4ed7674e456fd, appid=wx494a7bdca2d1deb1}
+[pool-1-thread-1][29]2017-02-18 22:00:00.002 DEBUG com.wechat.utils.HttpsGetData.sendGet:53 - GET请求的URL为：https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&secret=e5994e6918564af078d4ed7674e456fd&appid=wx494a7bdca2d1deb1
+[pool-1-thread-1][29]2017-02-18 22:00:00.268 DEBUG com.wechat.utils.HttpsGetData.sendGet:81 - 获取的结果为：{"access_token":"zbkOeqadso9zf8PsiWTTS8hKTBdqb122jSjzPpOl3DM5hkfPJFH0PefI8KSgSO0fKiC3dexmDg6QZknbOqybrS9LCnWJcuXSDweyR1xhC9fGbIybuELOKXVSexHaBN0uVLCgAIARHY","expires_in":7200}
+[pool-1-thread-1][29]2017-02-18 22:00:00.269 INFO  com.wechat.utils.WeixinUtils.getToken:146 - {access_token=zbkOeqadso9zf8PsiWTTS8hKTBdqb122jSjzPpOl3DM5hkfPJFH0PefI8KSgSO0fKiC3dexmDg6QZknbOqybrS9LCnWJcuXSDweyR1xhC9fGbIybuELOKXVSexHaBN0uVLCgAIARHY, expires_in=7200}
+[pool-1-thread-1][29]2017-02-18 23:00:00.001 DEBUG com.wechat.utils.WeixinUtils.getToken:136 - {grant_type=client_credential, secret=e5994e6918564af078d4ed7674e456fd, appid=wx494a7bdca2d1deb1}
+[pool-1-thread-1][29]2017-02-18 23:00:00.002 DEBUG com.wechat.utils.HttpsGetData.sendGet:53 - GET请求的URL为：https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&secret=e5994e6918564af078d4ed7674e456fd&appid=wx494a7bdca2d1deb1
+[pool-1-thread-1][29]2017-02-18 23:00:00.232 DEBUG com.wechat.utils.HttpsGetData.sendGet:81 - 获取的结果为：{"access_token":"cc9uOBdyD9K2b5hWffa_jBmza1WiR754jMH3i-mbQtm8wFo6DH08v3QKrkTJCRZBPGSQrgtQbx1VeJ0wIJ1d6vSTylUIgDqzK4crO0zgHptJOPs8TwUWQbZ5un7nGtGMDMPgABAYHK","expires_in":7200}
+[pool-1-thread-1][29]2017-02-18 23:00:00.233 INFO  com.wechat.utils.WeixinUtils.getToken:146 - {access_token=cc9uOBdyD9K2b5hWffa_jBmza1WiR754jMH3i-mbQtm8wFo6DH08v3QKrkTJCRZBPGSQrgtQbx1VeJ0wIJ1d6vSTylUIgDqzK4crO0zgHptJOPs8TwUWQbZ5un7nGtGMDMPgABAYHK, expires_in=7200}

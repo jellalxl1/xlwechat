@@ -1,0 +1,435 @@
+[main][1]2017-03-03 14:53:08.839 INFO  com.wechat.XlwechatApplication.logStarting:48 - Starting XlwechatApplication on xielang with PID 22468 (D:\xlwechat\target\classes started by xielang in D:\xlwechat)
+[main][1]2017-03-03 14:53:08.847 DEBUG com.wechat.XlwechatApplication.logStarting:51 - Running with Spring Boot v1.5.1.RELEASE, Spring v4.3.6.RELEASE
+[main][1]2017-03-03 14:53:08.847 INFO  com.wechat.XlwechatApplication.logStartupProfileInfo:637 - No active profile set, falling back to default profiles: default
+[background-preinit][20]2017-03-03 14:53:10.355 INFO  o.h.validator.internal.util.Version.<clinit>:30 - HV000001: Hibernate Validator 5.3.4.Final
+[main][1]2017-03-03 14:53:14.032 INFO  o.a.catalina.core.StandardService.log:179 - Starting service Tomcat
+[main][1]2017-03-03 14:53:14.034 INFO  o.a.catalina.core.StandardEngine.log:179 - Starting Servlet Engine: Apache Tomcat/8.5.11
+[localhost-startStop-1][24]2017-03-03 14:53:14.237 INFO  o.a.c.c.C.[.[localhost].[/wx-agent2].log:179 - Initializing Spring embedded WebApplicationContext
+[main][1]2017-03-03 14:53:17.559 INFO  o.a.coyote.http11.Http11NioProtocol.log:179 - Initializing ProtocolHandler ["http-nio-80"]
+[main][1]2017-03-03 14:53:17.609 INFO  o.a.coyote.http11.Http11NioProtocol.log:179 - Starting ProtocolHandler [http-nio-80]
+[main][1]2017-03-03 14:53:17.660 INFO  o.a.tomcat.util.net.NioSelectorPool.log:179 - Using a shared selector for servlet write/read
+[main][1]2017-03-03 14:53:17.735 INFO  com.wechat.XlwechatApplication.logStarted:57 - Started XlwechatApplication in 9.907 seconds (JVM running for 11.957)
+[main][1]2017-03-03 14:57:44.185 INFO  com.wechat.XlwechatApplication.logStarting:48 - Starting XlwechatApplication on xielang with PID 17756 (D:\xlwechat\target\classes started by xielang in D:\xlwechat)
+[main][1]2017-03-03 14:57:44.192 DEBUG com.wechat.XlwechatApplication.logStarting:51 - Running with Spring Boot v1.5.1.RELEASE, Spring v4.3.6.RELEASE
+[main][1]2017-03-03 14:57:44.193 INFO  com.wechat.XlwechatApplication.logStartupProfileInfo:637 - No active profile set, falling back to default profiles: default
+[background-preinit][20]2017-03-03 14:57:45.344 INFO  o.h.validator.internal.util.Version.<clinit>:30 - HV000001: Hibernate Validator 5.3.4.Final
+[main][1]2017-03-03 14:57:48.082 INFO  o.a.catalina.core.StandardService.log:179 - Starting service Tomcat
+[main][1]2017-03-03 14:57:48.096 INFO  o.a.catalina.core.StandardEngine.log:179 - Starting Servlet Engine: Apache Tomcat/8.5.11
+[localhost-startStop-1][24]2017-03-03 14:57:48.445 INFO  o.a.c.c.C.[.[localhost].[/wx-agent2].log:179 - Initializing Spring embedded WebApplicationContext
+[main][1]2017-03-03 14:57:51.703 INFO  o.a.coyote.http11.Http11NioProtocol.log:179 - Initializing ProtocolHandler ["http-nio-80"]
+[main][1]2017-03-03 14:57:51.736 INFO  o.a.coyote.http11.Http11NioProtocol.log:179 - Starting ProtocolHandler [http-nio-80]
+[main][1]2017-03-03 14:57:51.749 INFO  o.a.tomcat.util.net.NioSelectorPool.log:179 - Using a shared selector for servlet write/read
+[main][1]2017-03-03 14:57:51.818 INFO  com.wechat.XlwechatApplication.logStarted:57 - Started XlwechatApplication in 8.432 seconds (JVM running for 9.819)
+[http-nio-80-exec-1][46]2017-03-03 14:58:22.574 INFO  o.a.c.c.C.[.[localhost].[/wx-agent2].log:179 - Initializing Spring FrameworkServlet 'dispatcherServlet'
+[http-nio-80-exec-1][46]2017-03-03 14:58:22.625 INFO  com.wechat.filter.BindFilter.doFilter:53 - 
+[http-nio-80-exec-1][46]2017-03-03 14:58:22.626 INFO  com.wechat.filter.BindFilter.doFilter:56 - url=http://172.20.0.41/wx-agent2/wechat/menu/index.html
+[http-nio-80-exec-2][47]2017-03-03 14:58:32.279 INFO  com.wechat.filter.BindFilter.doFilter:53 - 
+[http-nio-80-exec-2][47]2017-03-03 14:58:32.280 INFO  com.wechat.filter.BindFilter.doFilter:56 - url=http://172.20.0.41/wx-agent2/wechat/menu/index.html
+[main][1]2017-03-03 14:59:00.231 INFO  com.wechat.XlwechatApplication.logStarting:48 - Starting XlwechatApplication on xielang with PID 21192 (D:\xlwechat\target\classes started by xielang in D:\xlwechat)
+[main][1]2017-03-03 14:59:00.237 DEBUG com.wechat.XlwechatApplication.logStarting:51 - Running with Spring Boot v1.5.1.RELEASE, Spring v4.3.6.RELEASE
+[main][1]2017-03-03 14:59:00.238 INFO  com.wechat.XlwechatApplication.logStartupProfileInfo:637 - No active profile set, falling back to default profiles: default
+[background-preinit][20]2017-03-03 14:59:01.458 INFO  o.h.validator.internal.util.Version.<clinit>:30 - HV000001: Hibernate Validator 5.3.4.Final
+[main][1]2017-03-03 14:59:04.264 INFO  o.a.catalina.core.StandardService.log:179 - Starting service Tomcat
+[main][1]2017-03-03 14:59:04.266 INFO  o.a.catalina.core.StandardEngine.log:179 - Starting Servlet Engine: Apache Tomcat/8.5.11
+[localhost-startStop-1][24]2017-03-03 14:59:04.524 INFO  o.a.c.c.C.[.[localhost].[/wx-agent2].log:179 - Initializing Spring embedded WebApplicationContext
+[main][1]2017-03-03 14:59:07.716 INFO  o.a.coyote.http11.Http11NioProtocol.log:179 - Initializing ProtocolHandler ["http-nio-80"]
+[main][1]2017-03-03 14:59:07.737 INFO  o.a.coyote.http11.Http11NioProtocol.log:179 - Starting ProtocolHandler [http-nio-80]
+[main][1]2017-03-03 14:59:07.750 INFO  o.a.tomcat.util.net.NioSelectorPool.log:179 - Using a shared selector for servlet write/read
+[main][1]2017-03-03 14:59:07.824 INFO  com.wechat.XlwechatApplication.logStarted:57 - Started XlwechatApplication in 8.482 seconds (JVM running for 9.976)
+[http-nio-80-exec-1][45]2017-03-03 14:59:20.361 INFO  o.a.c.c.C.[.[localhost].[/wx-agent2].log:179 - Initializing Spring FrameworkServlet 'dispatcherServlet'
+[pool-1-thread-1][29]2017-03-03 15:00:00.001 DEBUG com.wechat.utils.WeixinUtils.getToken:136 - {grant_type=client_credential, secret=e5994e6918564af078d4ed7674e456fd, appid=wx494a7bdca2d1deb1}
+[pool-1-thread-1][29]2017-03-03 15:00:00.002 DEBUG com.wechat.utils.HttpsGetData.sendGet:53 - GET请求的URL为：https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&secret=e5994e6918564af078d4ed7674e456fd&appid=wx494a7bdca2d1deb1
+[pool-1-thread-1][29]2017-03-03 15:00:00.989 DEBUG com.wechat.utils.HttpsGetData.sendGet:81 - 获取的结果为：{"access_token":"8tEnQb1c4kooeYZedJUTxNm7DuPqm9dAsO4rFfzihZiOJg93gW5OfnAPyePZhy2NgWczW-79ti5kCooNK6lDYEmYDsQzoPlPGlBCIR65XOUANIiABAMZU","expires_in":7200}
+[pool-1-thread-1][29]2017-03-03 15:00:01.076 INFO  com.wechat.utils.WeixinUtils.getToken:146 - {access_token=8tEnQb1c4kooeYZedJUTxNm7DuPqm9dAsO4rFfzihZiOJg93gW5OfnAPyePZhy2NgWczW-79ti5kCooNK6lDYEmYDsQzoPlPGlBCIR65XOUANIiABAMZU, expires_in=7200}
+[main][1]2017-03-03 15:00:59.122 INFO  com.wechat.XlwechatApplication.logStarting:48 - Starting XlwechatApplication on xielang with PID 15168 (D:\xlwechat\target\classes started by xielang in D:\xlwechat)
+[main][1]2017-03-03 15:00:59.128 DEBUG com.wechat.XlwechatApplication.logStarting:51 - Running with Spring Boot v1.5.1.RELEASE, Spring v4.3.6.RELEASE
+[main][1]2017-03-03 15:00:59.129 INFO  com.wechat.XlwechatApplication.logStartupProfileInfo:637 - No active profile set, falling back to default profiles: default
+[background-preinit][20]2017-03-03 15:01:00.519 INFO  o.h.validator.internal.util.Version.<clinit>:30 - HV000001: Hibernate Validator 5.3.4.Final
+[main][1]2017-03-03 15:01:03.674 INFO  o.a.catalina.core.StandardService.log:179 - Starting service Tomcat
+[main][1]2017-03-03 15:01:03.679 INFO  o.a.catalina.core.StandardEngine.log:179 - Starting Servlet Engine: Apache Tomcat/8.5.11
+[localhost-startStop-1][24]2017-03-03 15:01:03.969 INFO  o.a.c.c.C.[.[localhost].[/wx-agent2].log:179 - Initializing Spring embedded WebApplicationContext
+[main][1]2017-03-03 15:01:07.502 INFO  o.a.coyote.http11.Http11NioProtocol.log:179 - Initializing ProtocolHandler ["http-nio-80"]
+[main][1]2017-03-03 15:01:07.525 INFO  o.a.coyote.http11.Http11NioProtocol.log:179 - Starting ProtocolHandler [http-nio-80]
+[main][1]2017-03-03 15:01:07.540 INFO  o.a.tomcat.util.net.NioSelectorPool.log:179 - Using a shared selector for servlet write/read
+[main][1]2017-03-03 15:01:07.660 INFO  com.wechat.XlwechatApplication.logStarted:57 - Started XlwechatApplication in 9.521 seconds (JVM running for 11.243)
+[main][1]2017-03-03 15:01:39.890 INFO  com.wechat.XlwechatApplication.logStarting:48 - Starting XlwechatApplication on xielang with PID 21520 (D:\xlwechat\target\classes started by xielang in D:\xlwechat)
+[main][1]2017-03-03 15:01:39.900 DEBUG com.wechat.XlwechatApplication.logStarting:51 - Running with Spring Boot v1.5.1.RELEASE, Spring v4.3.6.RELEASE
+[main][1]2017-03-03 15:01:39.901 INFO  com.wechat.XlwechatApplication.logStartupProfileInfo:637 - No active profile set, falling back to default profiles: default
+[background-preinit][20]2017-03-03 15:01:41.158 INFO  o.h.validator.internal.util.Version.<clinit>:30 - HV000001: Hibernate Validator 5.3.4.Final
+[main][1]2017-03-03 15:01:44.370 INFO  o.a.catalina.core.StandardService.log:179 - Starting service Tomcat
+[main][1]2017-03-03 15:01:44.372 INFO  o.a.catalina.core.StandardEngine.log:179 - Starting Servlet Engine: Apache Tomcat/8.5.11
+[localhost-startStop-1][24]2017-03-03 15:01:44.693 INFO  o.a.c.c.C.[.[localhost].[/wx-agent2].log:179 - Initializing Spring embedded WebApplicationContext
+[main][1]2017-03-03 15:01:48.736 INFO  o.a.coyote.http11.Http11NioProtocol.log:179 - Initializing ProtocolHandler ["http-nio-80"]
+[main][1]2017-03-03 15:01:48.754 INFO  o.a.coyote.http11.Http11NioProtocol.log:179 - Starting ProtocolHandler [http-nio-80]
+[main][1]2017-03-03 15:01:48.773 INFO  o.a.tomcat.util.net.NioSelectorPool.log:179 - Using a shared selector for servlet write/read
+[main][1]2017-03-03 15:01:48.830 INFO  com.wechat.XlwechatApplication.logStarted:57 - Started XlwechatApplication in 9.718 seconds (JVM running for 11.207)
+[http-nio-80-exec-1][45]2017-03-03 15:02:03.201 INFO  o.a.c.c.C.[.[localhost].[/wx-agent2].log:179 - Initializing Spring FrameworkServlet 'dispatcherServlet'
+[main][1]2017-03-03 15:02:44.550 INFO  com.wechat.XlwechatApplication.logStarting:48 - Starting XlwechatApplication on xielang with PID 5244 (D:\xlwechat\target\classes started by xielang in D:\xlwechat)
+[main][1]2017-03-03 15:02:44.581 DEBUG com.wechat.XlwechatApplication.logStarting:51 - Running with Spring Boot v1.5.1.RELEASE, Spring v4.3.6.RELEASE
+[main][1]2017-03-03 15:02:44.581 INFO  com.wechat.XlwechatApplication.logStartupProfileInfo:637 - No active profile set, falling back to default profiles: default
+[background-preinit][20]2017-03-03 15:02:45.779 INFO  o.h.validator.internal.util.Version.<clinit>:30 - HV000001: Hibernate Validator 5.3.4.Final
+[main][1]2017-03-03 15:02:49.164 INFO  o.a.catalina.core.StandardService.log:179 - Starting service Tomcat
+[main][1]2017-03-03 15:02:49.166 INFO  o.a.catalina.core.StandardEngine.log:179 - Starting Servlet Engine: Apache Tomcat/8.5.11
+[localhost-startStop-1][24]2017-03-03 15:02:49.452 INFO  o.a.c.c.C.[.[localhost].[/wx-agent2].log:179 - Initializing Spring embedded WebApplicationContext
+[main][1]2017-03-03 15:03:21.742 INFO  com.wechat.XlwechatApplication.logStarting:48 - Starting XlwechatApplication on xielang with PID 20188 (D:\xlwechat\target\classes started by xielang in D:\xlwechat)
+[main][1]2017-03-03 15:03:21.749 DEBUG com.wechat.XlwechatApplication.logStarting:51 - Running with Spring Boot v1.5.1.RELEASE, Spring v4.3.6.RELEASE
+[main][1]2017-03-03 15:03:21.749 INFO  com.wechat.XlwechatApplication.logStartupProfileInfo:637 - No active profile set, falling back to default profiles: default
+[background-preinit][20]2017-03-03 15:03:23.010 INFO  o.h.validator.internal.util.Version.<clinit>:30 - HV000001: Hibernate Validator 5.3.4.Final
+[main][1]2017-03-03 15:03:26.325 INFO  o.a.catalina.core.StandardService.log:179 - Starting service Tomcat
+[main][1]2017-03-03 15:03:26.326 INFO  o.a.catalina.core.StandardEngine.log:179 - Starting Servlet Engine: Apache Tomcat/8.5.11
+[localhost-startStop-1][24]2017-03-03 15:03:26.602 INFO  o.a.c.c.C.[.[localhost].[/wx-agent2].log:179 - Initializing Spring embedded WebApplicationContext
+[main][1]2017-03-03 15:03:30.388 INFO  o.a.coyote.http11.Http11NioProtocol.log:179 - Initializing ProtocolHandler ["http-nio-80"]
+[main][1]2017-03-03 15:03:30.404 INFO  o.a.coyote.http11.Http11NioProtocol.log:179 - Starting ProtocolHandler [http-nio-80]
+[main][1]2017-03-03 15:03:30.419 INFO  o.a.tomcat.util.net.NioSelectorPool.log:179 - Using a shared selector for servlet write/read
+[main][1]2017-03-03 15:03:30.481 INFO  com.wechat.XlwechatApplication.logStarted:57 - Started XlwechatApplication in 9.629 seconds (JVM running for 11.421)
+[http-nio-80-exec-1][46]2017-03-03 15:03:35.912 INFO  o.a.c.c.C.[.[localhost].[/wx-agent2].log:179 - Initializing Spring FrameworkServlet 'dispatcherServlet'
+[pool-1-thread-1][29]2017-03-03 16:00:00.007 DEBUG com.wechat.utils.WeixinUtils.getToken:136 - {grant_type=client_credential, secret=e5994e6918564af078d4ed7674e456fd, appid=wx494a7bdca2d1deb1}
+[pool-1-thread-1][29]2017-03-03 16:00:00.018 DEBUG com.wechat.utils.HttpsGetData.sendGet:53 - GET请求的URL为：https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&secret=e5994e6918564af078d4ed7674e456fd&appid=wx494a7bdca2d1deb1
+[pool-1-thread-1][29]2017-03-03 16:00:00.804 DEBUG com.wechat.utils.HttpsGetData.sendGet:81 - 获取的结果为：{"access_token":"PWqvrMN9CDsvzK3Sp6kMw95rsewscROj6CuIamYpOvw4wnH17hvRu29AudEPD_bkoxSrHT8sRNuiXjDYxlCHU-xsCg7MPobGS4t98yIKRswTKMeACAIZB","expires_in":7200}
+[pool-1-thread-1][29]2017-03-03 16:00:00.893 INFO  com.wechat.utils.WeixinUtils.getToken:146 - {access_token=PWqvrMN9CDsvzK3Sp6kMw95rsewscROj6CuIamYpOvw4wnH17hvRu29AudEPD_bkoxSrHT8sRNuiXjDYxlCHU-xsCg7MPobGS4t98yIKRswTKMeACAIZB, expires_in=7200}
+[pool-1-thread-1][29]2017-03-03 17:00:00.014 DEBUG com.wechat.utils.WeixinUtils.getToken:136 - {grant_type=client_credential, secret=e5994e6918564af078d4ed7674e456fd, appid=wx494a7bdca2d1deb1}
+[pool-1-thread-1][29]2017-03-03 17:00:00.023 DEBUG com.wechat.utils.HttpsGetData.sendGet:53 - GET请求的URL为：https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&secret=e5994e6918564af078d4ed7674e456fd&appid=wx494a7bdca2d1deb1
+[pool-1-thread-1][29]2017-03-03 17:00:00.321 DEBUG com.wechat.utils.HttpsGetData.sendGet:81 - 获取的结果为：{"access_token":"Fj4he-2udzHPlqZpn1Wa66Rn4MntcqvaSq5nF6YmfAnMe8oF3DC3srhk98WlNa12Ug8klyI7bY_3xYYP1zGKrwb1r_EdCUklmI28T-EINGtTaeQuTIyybLRprqdcnarYCQFdAHANBQ","expires_in":7200}
+[pool-1-thread-1][29]2017-03-03 17:00:00.324 INFO  com.wechat.utils.WeixinUtils.getToken:146 - {access_token=Fj4he-2udzHPlqZpn1Wa66Rn4MntcqvaSq5nF6YmfAnMe8oF3DC3srhk98WlNa12Ug8klyI7bY_3xYYP1zGKrwb1r_EdCUklmI28T-EINGtTaeQuTIyybLRprqdcnarYCQFdAHANBQ, expires_in=7200}
+[main][1]2017-03-03 17:46:42.053 INFO  com.wechat.XlwechatApplication.logStarting:48 - Starting XlwechatApplication on xielang with PID 20572 (D:\xlwechat\target\classes started by xielang in D:\xlwechat)
+[main][1]2017-03-03 17:46:42.065 DEBUG com.wechat.XlwechatApplication.logStarting:51 - Running with Spring Boot v1.5.1.RELEASE, Spring v4.3.6.RELEASE
+[main][1]2017-03-03 17:46:42.065 INFO  com.wechat.XlwechatApplication.logStartupProfileInfo:637 - No active profile set, falling back to default profiles: default
+[background-preinit][20]2017-03-03 17:46:43.359 INFO  o.h.validator.internal.util.Version.<clinit>:30 - HV000001: Hibernate Validator 5.3.4.Final
+[main][1]2017-03-03 17:46:46.474 INFO  o.a.catalina.core.StandardService.log:179 - Starting service Tomcat
+[main][1]2017-03-03 17:46:46.480 INFO  o.a.catalina.core.StandardEngine.log:179 - Starting Servlet Engine: Apache Tomcat/8.5.11
+[localhost-startStop-1][24]2017-03-03 17:46:46.691 INFO  o.a.c.c.C.[.[localhost].[/wx-agent2].log:179 - Initializing Spring embedded WebApplicationContext
+[main][1]2017-03-03 17:46:52.691 INFO  o.a.coyote.http11.Http11NioProtocol.log:179 - Initializing ProtocolHandler ["http-nio-80"]
+[main][1]2017-03-03 17:46:52.710 INFO  o.a.coyote.http11.Http11NioProtocol.log:179 - Starting ProtocolHandler [http-nio-80]
+[main][1]2017-03-03 17:46:52.735 INFO  o.a.tomcat.util.net.NioSelectorPool.log:179 - Using a shared selector for servlet write/read
+[main][1]2017-03-03 17:46:52.789 INFO  com.wechat.XlwechatApplication.logStarted:57 - Started XlwechatApplication in 11.602 seconds (JVM running for 12.895)
+[http-nio-80-exec-1][44]2017-03-03 17:46:56.294 INFO  o.a.c.c.C.[.[localhost].[/wx-agent2].log:179 - Initializing Spring FrameworkServlet 'dispatcherServlet'
+[http-nio-80-exec-1][44]2017-03-03 17:46:56.600 DEBUG com.wechat.utils.WeixinUtils.getToken:136 - {grant_type=client_credential, secret=e5994e6918564af078d4ed7674e456fd, appid=wx494a7bdca2d1deb1}
+[http-nio-80-exec-1][44]2017-03-03 17:46:56.601 DEBUG com.wechat.utils.HttpsGetData.sendGet:53 - GET请求的URL为：https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&secret=e5994e6918564af078d4ed7674e456fd&appid=wx494a7bdca2d1deb1
+[http-nio-80-exec-1][44]2017-03-03 17:46:57.421 DEBUG com.wechat.utils.HttpsGetData.sendGet:81 - 获取的结果为：{"access_token":"AM9s8dF0LAtsEOuFi4e48GissScai2Y8aoKVVgDMOul9-YKsk1TbBsQTF4Vgn5KEzXHx2iy-qcNXzAIfW7CC6JbLlferzNPvXOLRI30zKVoMEJiAFAFXC","expires_in":7200}
+[http-nio-80-exec-1][44]2017-03-03 17:46:57.459 INFO  com.wechat.utils.WeixinUtils.getToken:146 - {access_token=AM9s8dF0LAtsEOuFi4e48GissScai2Y8aoKVVgDMOul9-YKsk1TbBsQTF4Vgn5KEzXHx2iy-qcNXzAIfW7CC6JbLlferzNPvXOLRI30zKVoMEJiAFAFXC, expires_in=7200}
+[http-nio-80-exec-1][44]2017-03-03 17:46:58.122 DEBUG com.wechat.utils.WeixinUtils.createMenu:76 - {"errcode":0,"errmsg":"ok"}
+[http-nio-80-exec-1][44]2017-03-03 17:46:58.122 INFO  com.wechat.demo.DemoManager.creatMenu:55 - 菜单创建成功！
+[http-nio-80-exec-2][48]2017-03-03 17:47:06.741 DEBUG com.wechat.utils.WeixinUtils.createMenu:76 - {"errcode":0,"errmsg":"ok"}
+[http-nio-80-exec-2][48]2017-03-03 17:47:06.742 INFO  com.wechat.demo.DemoManager.creatMenu:55 - 菜单创建成功！
+[http-nio-80-exec-5][52]2017-03-03 17:47:17.407 INFO  o.a.coyote.http11.Http11Processor.log:181 - Error parsing HTTP request header
+ Note: further occurrences of HTTP header parsing errors will be logged at DEBUG level.
+java.lang.IllegalArgumentException: Invalid character found in the request target. The valid characters are defined in RFC 7230 and RFC 3986
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:471)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:667)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:798)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1434)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Unknown Source)
+[http-nio-80-exec-7][54]2017-03-03 17:47:35.015 INFO  com.wechat.service.CoreService.processRequest:43 - 微信发送到本服务消息为：{FromUserName=oqOMPxNa7Kvm_9sZNGA0ORLyWWsA, EventKey=http://ysdtest.jlpay.com/wx-agent2/wechat/test/index.html, Event=VIEW, CreateTime=1488534498, MenuId=468568941, ToUserName=gh_f44957453df9, MsgType=event}
+[http-nio-80-exec-3][50]2017-03-03 17:47:35.015 INFO  com.wechat.service.CoreService.processRequest:43 - 微信发送到本服务消息为：{FromUserName=oqOMPxNa7Kvm_9sZNGA0ORLyWWsA, EventKey=http://ysdtest.jlpay.com/wx-agent2/wechat/test/index.html, Event=VIEW, CreateTime=1488534498, MenuId=468568941, ToUserName=gh_f44957453df9, MsgType=event}
+[http-nio-80-exec-6][53]2017-03-03 17:47:35.016 INFO  com.wechat.service.CoreService.processRequest:43 - 微信发送到本服务消息为：{FromUserName=oqOMPxNa7Kvm_9sZNGA0ORLyWWsA, EventKey=http://ysdtest.jlpay.com/wx-agent2/wechat/test/index.html, Event=VIEW, CreateTime=1488534498, MenuId=468568941, ToUserName=gh_f44957453df9, MsgType=event}
+[http-nio-80-exec-6][53]2017-03-03 17:47:35.057 INFO  com.wechat.controller.CoreController.postReceiveWechatMsg:62 - 回应微信消息为：<xml>
+  <ToUserName><![CDATA[oqOMPxNa7Kvm_9sZNGA0ORLyWWsA]]></ToUserName>
+  <FromUserName><![CDATA[gh_f44957453df9]]></FromUserName>
+  <CreateTime><![CDATA[1488534455022]]></CreateTime>
+  <MsgType><![CDATA[text]]></MsgType>
+  <Content><![CDATA[未知的消息类型！]]></Content>
+</xml>
+[http-nio-80-exec-7][54]2017-03-03 17:47:35.057 INFO  com.wechat.controller.CoreController.postReceiveWechatMsg:62 - 回应微信消息为：<xml>
+  <ToUserName><![CDATA[oqOMPxNa7Kvm_9sZNGA0ORLyWWsA]]></ToUserName>
+  <FromUserName><![CDATA[gh_f44957453df9]]></FromUserName>
+  <CreateTime><![CDATA[1488534455027]]></CreateTime>
+  <MsgType><![CDATA[text]]></MsgType>
+  <Content><![CDATA[未知的消息类型！]]></Content>
+</xml>
+[http-nio-80-exec-3][50]2017-03-03 17:47:35.057 INFO  com.wechat.controller.CoreController.postReceiveWechatMsg:62 - 回应微信消息为：<xml>
+  <ToUserName><![CDATA[oqOMPxNa7Kvm_9sZNGA0ORLyWWsA]]></ToUserName>
+  <FromUserName><![CDATA[gh_f44957453df9]]></FromUserName>
+  <CreateTime><![CDATA[1488534455026]]></CreateTime>
+  <MsgType><![CDATA[text]]></MsgType>
+  <Content><![CDATA[未知的消息类型！]]></Content>
+</xml>
+[http-nio-80-exec-8][55]2017-03-03 17:48:35.581 INFO  com.wechat.service.CoreService.processRequest:43 - 微信发送到本服务消息为：{FromUserName=oqOMPxNa7Kvm_9sZNGA0ORLyWWsA, EventKey=http://ysdtest.jlpay.com/wx-agent2/wechat/test/index.html, Event=VIEW, CreateTime=1488534570, MenuId=468568941, ToUserName=gh_f44957453df9, MsgType=event}
+[http-nio-80-exec-8][55]2017-03-03 17:48:35.587 INFO  com.wechat.controller.CoreController.postReceiveWechatMsg:62 - 回应微信消息为：<xml>
+  <ToUserName><![CDATA[oqOMPxNa7Kvm_9sZNGA0ORLyWWsA]]></ToUserName>
+  <FromUserName><![CDATA[gh_f44957453df9]]></FromUserName>
+  <CreateTime><![CDATA[1488534515587]]></CreateTime>
+  <MsgType><![CDATA[text]]></MsgType>
+  <Content><![CDATA[未知的消息类型！]]></Content>
+</xml>
+[http-nio-80-exec-1][44]2017-03-03 17:48:35.742 INFO  com.wechat.service.CoreService.processRequest:43 - 微信发送到本服务消息为：{FromUserName=oqOMPxNa7Kvm_9sZNGA0ORLyWWsA, EventKey=http://ysdtest.jlpay.com/wx-agent2/wechat/test/index.html, Event=VIEW, CreateTime=1488534570, MenuId=468568941, ToUserName=gh_f44957453df9, MsgType=event}
+[http-nio-80-exec-1][44]2017-03-03 17:48:35.743 INFO  com.wechat.controller.CoreController.postReceiveWechatMsg:62 - 回应微信消息为：<xml>
+  <ToUserName><![CDATA[oqOMPxNa7Kvm_9sZNGA0ORLyWWsA]]></ToUserName>
+  <FromUserName><![CDATA[gh_f44957453df9]]></FromUserName>
+  <CreateTime><![CDATA[1488534515742]]></CreateTime>
+  <MsgType><![CDATA[text]]></MsgType>
+  <Content><![CDATA[未知的消息类型！]]></Content>
+</xml>
+[http-nio-80-exec-5][52]2017-03-03 17:50:32.363 INFO  com.wechat.service.CoreService.processRequest:43 - 微信发送到本服务消息为：{FromUserName=oqOMPxNa7Kvm_9sZNGA0ORLyWWsA, EventKey=http://ysdtest.jlpay.com/wx-agent2/wechat/test/index.html, Event=VIEW, CreateTime=1488534641, MenuId=468568941, ToUserName=gh_f44957453df9, MsgType=event}
+[http-nio-80-exec-5][52]2017-03-03 17:50:32.366 INFO  com.wechat.controller.CoreController.postReceiveWechatMsg:62 - 回应微信消息为：<xml>
+  <ToUserName><![CDATA[oqOMPxNa7Kvm_9sZNGA0ORLyWWsA]]></ToUserName>
+  <FromUserName><![CDATA[gh_f44957453df9]]></FromUserName>
+  <CreateTime><![CDATA[1488534632365]]></CreateTime>
+  <MsgType><![CDATA[text]]></MsgType>
+  <Content><![CDATA[未知的消息类型！]]></Content>
+</xml>
+[http-nio-80-exec-6][53]2017-03-03 17:50:34.029 INFO  com.wechat.service.CoreService.processRequest:43 - 微信发送到本服务消息为：{FromUserName=oqOMPxNa7Kvm_9sZNGA0ORLyWWsA, EventKey=http://ysdtest.jlpay.com/wx-agent2/wechat/test/index.html, Event=VIEW, CreateTime=1488534661, MenuId=468568941, ToUserName=gh_f44957453df9, MsgType=event}
+[http-nio-80-exec-6][53]2017-03-03 17:50:34.032 INFO  com.wechat.controller.CoreController.postReceiveWechatMsg:62 - 回应微信消息为：<xml>
+  <ToUserName><![CDATA[oqOMPxNa7Kvm_9sZNGA0ORLyWWsA]]></ToUserName>
+  <FromUserName><![CDATA[gh_f44957453df9]]></FromUserName>
+  <CreateTime><![CDATA[1488534634030]]></CreateTime>
+  <MsgType><![CDATA[text]]></MsgType>
+  <Content><![CDATA[未知的消息类型！]]></Content>
+</xml>
+[main][1]2017-03-03 17:52:34.188 INFO  com.wechat.XlwechatApplication.logStarting:48 - Starting XlwechatApplication on xielang with PID 9924 (D:\xlwechat\target\classes started by xielang in D:\xlwechat)
+[main][1]2017-03-03 17:52:34.199 DEBUG com.wechat.XlwechatApplication.logStarting:51 - Running with Spring Boot v1.5.1.RELEASE, Spring v4.3.6.RELEASE
+[main][1]2017-03-03 17:52:34.200 INFO  com.wechat.XlwechatApplication.logStartupProfileInfo:637 - No active profile set, falling back to default profiles: default
+[background-preinit][20]2017-03-03 17:52:35.482 INFO  o.h.validator.internal.util.Version.<clinit>:30 - HV000001: Hibernate Validator 5.3.4.Final
+[main][1]2017-03-03 17:52:38.176 INFO  o.a.catalina.core.StandardService.log:179 - Starting service Tomcat
+[main][1]2017-03-03 17:52:38.178 INFO  o.a.catalina.core.StandardEngine.log:179 - Starting Servlet Engine: Apache Tomcat/8.5.11
+[localhost-startStop-1][24]2017-03-03 17:52:38.401 INFO  o.a.c.c.C.[.[localhost].[/wx-agent2].log:179 - Initializing Spring embedded WebApplicationContext
+[main][1]2017-03-03 17:52:41.414 INFO  o.a.coyote.http11.Http11NioProtocol.log:179 - Initializing ProtocolHandler ["http-nio-80"]
+[main][1]2017-03-03 17:52:41.433 INFO  o.a.coyote.http11.Http11NioProtocol.log:179 - Starting ProtocolHandler [http-nio-80]
+[main][1]2017-03-03 17:52:41.447 INFO  o.a.tomcat.util.net.NioSelectorPool.log:179 - Using a shared selector for servlet write/read
+[main][1]2017-03-03 17:52:41.524 INFO  com.wechat.XlwechatApplication.logStarted:57 - Started XlwechatApplication in 8.07 seconds (JVM running for 9.63)
+[http-nio-80-exec-1][44]2017-03-03 17:53:00.224 INFO  o.a.c.c.C.[.[localhost].[/wx-agent2].log:179 - Initializing Spring FrameworkServlet 'dispatcherServlet'
+[main][1]2017-03-03 17:53:13.367 INFO  com.wechat.XlwechatApplication.logStarting:48 - Starting XlwechatApplication on xielang with PID 13816 (D:\xlwechat\target\classes started by xielang in D:\xlwechat)
+[main][1]2017-03-03 17:53:13.371 DEBUG com.wechat.XlwechatApplication.logStarting:51 - Running with Spring Boot v1.5.1.RELEASE, Spring v4.3.6.RELEASE
+[main][1]2017-03-03 17:53:13.372 INFO  com.wechat.XlwechatApplication.logStartupProfileInfo:637 - No active profile set, falling back to default profiles: default
+[background-preinit][17]2017-03-03 17:53:14.082 INFO  o.h.validator.internal.util.Version.<clinit>:30 - HV000001: Hibernate Validator 5.3.4.Final
+[main][1]2017-03-03 17:53:16.825 INFO  o.a.catalina.core.StandardService.log:179 - Starting service Tomcat
+[main][1]2017-03-03 17:53:16.827 INFO  o.a.catalina.core.StandardEngine.log:179 - Starting Servlet Engine: Apache Tomcat/8.5.11
+[localhost-startStop-1][21]2017-03-03 17:53:17.090 INFO  o.a.c.c.C.[.[localhost].[/wx-agent2].log:179 - Initializing Spring embedded WebApplicationContext
+[main][1]2017-03-03 17:53:20.884 INFO  o.a.coyote.http11.Http11NioProtocol.log:179 - Initializing ProtocolHandler ["http-nio-80"]
+[main][1]2017-03-03 17:53:20.900 INFO  o.a.coyote.http11.Http11NioProtocol.log:179 - Starting ProtocolHandler [http-nio-80]
+[main][1]2017-03-03 17:53:20.913 INFO  o.a.tomcat.util.net.NioSelectorPool.log:179 - Using a shared selector for servlet write/read
+[main][1]2017-03-03 17:53:20.951 INFO  com.wechat.XlwechatApplication.logStarted:57 - Started XlwechatApplication in 8.335 seconds (JVM running for 9.373)
+[http-nio-80-exec-1][43]2017-03-03 17:53:23.884 INFO  o.a.c.c.C.[.[localhost].[/wx-agent2].log:179 - Initializing Spring FrameworkServlet 'dispatcherServlet'
+[http-nio-80-exec-1][43]2017-03-03 17:53:24.186 INFO  com.wechat.service.CoreService.processRequest:43 - 微信发送到本服务消息为：{FromUserName=oqOMPxNa7Kvm_9sZNGA0ORLyWWsA, EventKey=http://ysdtest.jlpay.com/wx-agent2/wechat/test/index.html, Event=VIEW, CreateTime=1488534865, MenuId=468568941, ToUserName=gh_f44957453df9, MsgType=event}
+[http-nio-80-exec-1][43]2017-03-03 17:53:24.209 INFO  com.wechat.controller.CoreController.postReceiveWechatMsg:62 - 回应微信消息为：<xml>
+  <ToUserName><![CDATA[oqOMPxNa7Kvm_9sZNGA0ORLyWWsA]]></ToUserName>
+  <FromUserName><![CDATA[gh_f44957453df9]]></FromUserName>
+  <CreateTime><![CDATA[1488534804188]]></CreateTime>
+  <MsgType><![CDATA[text]]></MsgType>
+  <Content><![CDATA[未知的消息类型！]]></Content>
+</xml>
+[http-nio-80-exec-3][45]2017-03-03 17:54:06.759 INFO  com.wechat.service.CoreService.processRequest:43 - 微信发送到本服务消息为：{FromUserName=oqOMPxNa7Kvm_9sZNGA0ORLyWWsA, EventKey=http://ysdtest.jlpay.com/wx-agent2/wechat/test/index.html, Event=VIEW, CreateTime=1488534908, MenuId=468568941, ToUserName=gh_f44957453df9, MsgType=event}
+[http-nio-80-exec-3][45]2017-03-03 17:54:06.760 INFO  com.wechat.controller.CoreController.postReceiveWechatMsg:62 - 回应微信消息为：<xml>
+  <ToUserName><![CDATA[oqOMPxNa7Kvm_9sZNGA0ORLyWWsA]]></ToUserName>
+  <FromUserName><![CDATA[gh_f44957453df9]]></FromUserName>
+  <CreateTime><![CDATA[1488534846760]]></CreateTime>
+  <MsgType><![CDATA[text]]></MsgType>
+  <Content><![CDATA[未知的消息类型！]]></Content>
+</xml>
+[http-nio-80-exec-5][47]2017-03-03 17:54:20.105 INFO  com.wechat.service.CoreService.processRequest:43 - 微信发送到本服务消息为：{FromUserName=oqOMPxNa7Kvm_9sZNGA0ORLyWWsA, EventKey=http://ysdtest.jlpay.com/wx-agent2/wechat/test/index.html, Event=VIEW, CreateTime=1488534922, MenuId=468568941, ToUserName=gh_f44957453df9, MsgType=event}
+[http-nio-80-exec-5][47]2017-03-03 17:54:20.111 INFO  com.wechat.controller.CoreController.postReceiveWechatMsg:62 - 回应微信消息为：<xml>
+  <ToUserName><![CDATA[oqOMPxNa7Kvm_9sZNGA0ORLyWWsA]]></ToUserName>
+  <FromUserName><![CDATA[gh_f44957453df9]]></FromUserName>
+  <CreateTime><![CDATA[1488534860106]]></CreateTime>
+  <MsgType><![CDATA[text]]></MsgType>
+  <Content><![CDATA[未知的消息类型！]]></Content>
+</xml>
+[http-nio-80-exec-10][52]2017-03-03 17:54:31.280 INFO  com.wechat.service.CoreService.processRequest:43 - 微信发送到本服务消息为：{FromUserName=oqOMPxNa7Kvm_9sZNGA0ORLyWWsA, EventKey=http://ysdtest.jlpay.com/wx-agent2/wechat/test/index.html, Event=VIEW, CreateTime=1488534933, MenuId=468568941, ToUserName=gh_f44957453df9, MsgType=event}
+[http-nio-80-exec-10][52]2017-03-03 17:54:31.281 INFO  com.wechat.controller.CoreController.postReceiveWechatMsg:62 - 回应微信消息为：<xml>
+  <ToUserName><![CDATA[oqOMPxNa7Kvm_9sZNGA0ORLyWWsA]]></ToUserName>
+  <FromUserName><![CDATA[gh_f44957453df9]]></FromUserName>
+  <CreateTime><![CDATA[1488534871280]]></CreateTime>
+  <MsgType><![CDATA[text]]></MsgType>
+  <Content><![CDATA[未知的消息类型！]]></Content>
+</xml>
+[http-nio-80-exec-1][43]2017-03-03 17:54:41.783 INFO  com.wechat.service.CoreService.processRequest:43 - 微信发送到本服务消息为：{FromUserName=oqOMPxNa7Kvm_9sZNGA0ORLyWWsA, EventKey=http://ysdtest.jlpay.com/wx-agent2/wechat/test/index.html, Event=VIEW, CreateTime=1488534943, MenuId=468568941, ToUserName=gh_f44957453df9, MsgType=event}
+[http-nio-80-exec-1][43]2017-03-03 17:54:41.784 INFO  com.wechat.controller.CoreController.postReceiveWechatMsg:62 - 回应微信消息为：<xml>
+  <ToUserName><![CDATA[oqOMPxNa7Kvm_9sZNGA0ORLyWWsA]]></ToUserName>
+  <FromUserName><![CDATA[gh_f44957453df9]]></FromUserName>
+  <CreateTime><![CDATA[1488534881784]]></CreateTime>
+  <MsgType><![CDATA[text]]></MsgType>
+  <Content><![CDATA[未知的消息类型！]]></Content>
+</xml>
+[main][1]2017-03-03 17:56:50.901 INFO  com.wechat.XlwechatApplication.logStarting:48 - Starting XlwechatApplication on xielang with PID 23132 (D:\xlwechat\target\classes started by xielang in D:\xlwechat)
+[main][1]2017-03-03 17:56:50.906 DEBUG com.wechat.XlwechatApplication.logStarting:51 - Running with Spring Boot v1.5.1.RELEASE, Spring v4.3.6.RELEASE
+[main][1]2017-03-03 17:56:50.906 INFO  com.wechat.XlwechatApplication.logStartupProfileInfo:637 - No active profile set, falling back to default profiles: default
+[background-preinit][17]2017-03-03 17:56:51.894 INFO  o.h.validator.internal.util.Version.<clinit>:30 - HV000001: Hibernate Validator 5.3.4.Final
+[main][1]2017-03-03 17:56:54.291 INFO  o.a.catalina.core.StandardService.log:179 - Starting service Tomcat
+[main][1]2017-03-03 17:56:54.296 INFO  o.a.catalina.core.StandardEngine.log:179 - Starting Servlet Engine: Apache Tomcat/8.5.11
+[localhost-startStop-1][21]2017-03-03 17:56:54.458 INFO  o.a.c.c.C.[.[localhost].[/wx-agent2].log:179 - Initializing Spring embedded WebApplicationContext
+[main][1]2017-03-03 17:56:57.892 INFO  o.a.coyote.http11.Http11NioProtocol.log:179 - Initializing ProtocolHandler ["http-nio-80"]
+[main][1]2017-03-03 17:56:57.906 INFO  o.a.coyote.http11.Http11NioProtocol.log:179 - Starting ProtocolHandler [http-nio-80]
+[main][1]2017-03-03 17:56:57.919 INFO  o.a.tomcat.util.net.NioSelectorPool.log:179 - Using a shared selector for servlet write/read
+[main][1]2017-03-03 17:56:57.953 INFO  com.wechat.XlwechatApplication.logStarted:57 - Started XlwechatApplication in 7.733 seconds (JVM running for 8.755)
+[main][1]2017-03-03 17:57:23.442 INFO  com.wechat.XlwechatApplication.logStarting:48 - Starting XlwechatApplication on xielang with PID 18800 (D:\xlwechat\target\classes started by xielang in D:\xlwechat)
+[main][1]2017-03-03 17:57:23.448 DEBUG com.wechat.XlwechatApplication.logStarting:51 - Running with Spring Boot v1.5.1.RELEASE, Spring v4.3.6.RELEASE
+[main][1]2017-03-03 17:57:23.448 INFO  com.wechat.XlwechatApplication.logStartupProfileInfo:637 - No active profile set, falling back to default profiles: default
+[background-preinit][17]2017-03-03 17:57:24.598 INFO  o.h.validator.internal.util.Version.<clinit>:30 - HV000001: Hibernate Validator 5.3.4.Final
+[main][1]2017-03-03 17:57:26.876 INFO  o.a.catalina.core.StandardService.log:179 - Starting service Tomcat
+[main][1]2017-03-03 17:57:26.879 INFO  o.a.catalina.core.StandardEngine.log:179 - Starting Servlet Engine: Apache Tomcat/8.5.11
+[localhost-startStop-1][21]2017-03-03 17:57:27.040 INFO  o.a.c.c.C.[.[localhost].[/wx-agent2].log:179 - Initializing Spring embedded WebApplicationContext
+[main][1]2017-03-03 17:57:30.560 INFO  o.a.coyote.http11.Http11NioProtocol.log:179 - Initializing ProtocolHandler ["http-nio-80"]
+[main][1]2017-03-03 17:57:30.573 INFO  o.a.coyote.http11.Http11NioProtocol.log:179 - Starting ProtocolHandler [http-nio-80]
+[main][1]2017-03-03 17:57:30.587 INFO  o.a.tomcat.util.net.NioSelectorPool.log:179 - Using a shared selector for servlet write/read
+[main][1]2017-03-03 17:57:30.617 INFO  com.wechat.XlwechatApplication.logStarted:57 - Started XlwechatApplication in 7.848 seconds (JVM running for 8.879)
+[http-nio-80-exec-1][42]2017-03-03 17:57:35.854 INFO  o.a.c.c.C.[.[localhost].[/wx-agent2].log:179 - Initializing Spring FrameworkServlet 'dispatcherServlet'
+[main][1]2017-03-03 17:58:28.069 INFO  com.wechat.XlwechatApplication.logStarting:48 - Starting XlwechatApplication on xielang with PID 256 (D:\xlwechat\target\classes started by xielang in D:\xlwechat)
+[main][1]2017-03-03 17:58:28.094 DEBUG com.wechat.XlwechatApplication.logStarting:51 - Running with Spring Boot v1.5.1.RELEASE, Spring v4.3.6.RELEASE
+[main][1]2017-03-03 17:58:28.094 INFO  com.wechat.XlwechatApplication.logStartupProfileInfo:637 - No active profile set, falling back to default profiles: default
+[background-preinit][17]2017-03-03 17:58:29.126 INFO  o.h.validator.internal.util.Version.<clinit>:30 - HV000001: Hibernate Validator 5.3.4.Final
+[main][1]2017-03-03 17:58:31.523 INFO  o.a.catalina.core.StandardService.log:179 - Starting service Tomcat
+[main][1]2017-03-03 17:58:31.527 INFO  o.a.catalina.core.StandardEngine.log:179 - Starting Servlet Engine: Apache Tomcat/8.5.11
+[localhost-startStop-1][21]2017-03-03 17:58:31.740 INFO  o.a.c.c.C.[.[localhost].[/wx-agent2].log:179 - Initializing Spring embedded WebApplicationContext
+[main][1]2017-03-03 17:58:34.818 INFO  o.a.coyote.http11.Http11NioProtocol.log:179 - Initializing ProtocolHandler ["http-nio-80"]
+[main][1]2017-03-03 17:58:34.832 INFO  o.a.coyote.http11.Http11NioProtocol.log:179 - Starting ProtocolHandler [http-nio-80]
+[main][1]2017-03-03 17:58:34.847 INFO  o.a.tomcat.util.net.NioSelectorPool.log:179 - Using a shared selector for servlet write/read
+[main][1]2017-03-03 17:58:34.878 INFO  com.wechat.XlwechatApplication.logStarted:57 - Started XlwechatApplication in 7.479 seconds (JVM running for 8.491)
+[http-nio-80-exec-1][43]2017-03-03 17:58:38.521 INFO  o.a.c.c.C.[.[localhost].[/wx-agent2].log:179 - Initializing Spring FrameworkServlet 'dispatcherServlet'
+[http-nio-80-exec-2][44]2017-03-03 17:58:56.221 INFO  com.wechat.service.CoreService.processRequest:43 - 微信发送到本服务消息为：{FromUserName=oqOMPxNa7Kvm_9sZNGA0ORLyWWsA, EventKey=http://ysdtest.jlpay.com/wx-agent2/wechat/test/index.html, Event=VIEW, CreateTime=1488535198, MenuId=468568941, ToUserName=gh_f44957453df9, MsgType=event}
+[http-nio-80-exec-2][44]2017-03-03 17:58:56.237 INFO  com.wechat.controller.CoreController.postReceiveWechatMsg:62 - 回应微信消息为：<xml>
+  <ToUserName><![CDATA[oqOMPxNa7Kvm_9sZNGA0ORLyWWsA]]></ToUserName>
+  <FromUserName><![CDATA[gh_f44957453df9]]></FromUserName>
+  <CreateTime><![CDATA[1488535136222]]></CreateTime>
+  <MsgType><![CDATA[text]]></MsgType>
+  <Content><![CDATA[未知的消息类型！]]></Content>
+</xml>
+[http-nio-80-exec-4][46]2017-03-03 17:59:35.104 INFO  com.wechat.service.CoreService.processRequest:43 - 微信发送到本服务消息为：{FromUserName=oqOMPxNa7Kvm_9sZNGA0ORLyWWsA, EventKey=http://ysdtest.jlpay.com/wx-agent2/wechat/test/index.html, Event=VIEW, CreateTime=1488535237, MenuId=468568941, ToUserName=gh_f44957453df9, MsgType=event}
+[http-nio-80-exec-4][46]2017-03-03 17:59:35.106 INFO  com.wechat.controller.CoreController.postReceiveWechatMsg:62 - 回应微信消息为：<xml>
+  <ToUserName><![CDATA[oqOMPxNa7Kvm_9sZNGA0ORLyWWsA]]></ToUserName>
+  <FromUserName><![CDATA[gh_f44957453df9]]></FromUserName>
+  <CreateTime><![CDATA[1488535175105]]></CreateTime>
+  <MsgType><![CDATA[text]]></MsgType>
+  <Content><![CDATA[未知的消息类型！]]></Content>
+</xml>
+[http-nio-80-exec-7][49]2017-03-03 17:59:40.544 INFO  com.wechat.service.CoreService.processRequest:43 - 微信发送到本服务消息为：{FromUserName=oqOMPxNa7Kvm_9sZNGA0ORLyWWsA, EventKey=http://ysdtest.jlpay.com/wx-agent2/wechat/test/index.html, Event=VIEW, CreateTime=1488535242, MenuId=468568941, ToUserName=gh_f44957453df9, MsgType=event}
+[http-nio-80-exec-7][49]2017-03-03 17:59:40.545 INFO  com.wechat.controller.CoreController.postReceiveWechatMsg:62 - 回应微信消息为：<xml>
+  <ToUserName><![CDATA[oqOMPxNa7Kvm_9sZNGA0ORLyWWsA]]></ToUserName>
+  <FromUserName><![CDATA[gh_f44957453df9]]></FromUserName>
+  <CreateTime><![CDATA[1488535180544]]></CreateTime>
+  <MsgType><![CDATA[text]]></MsgType>
+  <Content><![CDATA[未知的消息类型！]]></Content>
+</xml>
+[pool-1-thread-1][26]2017-03-03 18:00:00.007 DEBUG com.wechat.utils.WeixinUtils.getToken:136 - {grant_type=client_credential, secret=e5994e6918564af078d4ed7674e456fd, appid=wx494a7bdca2d1deb1}
+[pool-1-thread-1][26]2017-03-03 18:00:00.008 DEBUG com.wechat.utils.HttpsGetData.sendGet:53 - GET请求的URL为：https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&secret=e5994e6918564af078d4ed7674e456fd&appid=wx494a7bdca2d1deb1
+[pool-1-thread-1][26]2017-03-03 18:00:01.111 DEBUG com.wechat.utils.HttpsGetData.sendGet:81 - 获取的结果为：{"access_token":"5H5908pKp7qXl75E2r4XIsMSwz9v0QNXkui0_jXnPeJS5cgIl9I19Ha7MYSZpqyV7a8DQQf-YPLg0hgcB6PSfXqY2-LtCkfYSrxEbp-mqm4FMGgABAWDX","expires_in":7200}
+[pool-1-thread-1][26]2017-03-03 18:00:01.159 INFO  com.wechat.utils.WeixinUtils.getToken:146 - {access_token=5H5908pKp7qXl75E2r4XIsMSwz9v0QNXkui0_jXnPeJS5cgIl9I19Ha7MYSZpqyV7a8DQQf-YPLg0hgcB6PSfXqY2-LtCkfYSrxEbp-mqm4FMGgABAWDX, expires_in=7200}
+[http-nio-80-exec-8][52]2017-03-03 18:00:03.452 INFO  com.wechat.service.CoreService.processRequest:43 - 微信发送到本服务消息为：{FromUserName=oqOMPxNa7Kvm_9sZNGA0ORLyWWsA, EventKey=http://ysdtest.jlpay.com/wx-agent2/wechat/test/index.html, Event=VIEW, CreateTime=1488535265, MenuId=468568941, ToUserName=gh_f44957453df9, MsgType=event}
+[http-nio-80-exec-8][52]2017-03-03 18:00:03.452 INFO  com.wechat.controller.CoreController.postReceiveWechatMsg:62 - 回应微信消息为：<xml>
+  <ToUserName><![CDATA[oqOMPxNa7Kvm_9sZNGA0ORLyWWsA]]></ToUserName>
+  <FromUserName><![CDATA[gh_f44957453df9]]></FromUserName>
+  <CreateTime><![CDATA[1488535203452]]></CreateTime>
+  <MsgType><![CDATA[text]]></MsgType>
+  <Content><![CDATA[未知的消息类型！]]></Content>
+</xml>
+[http-nio-80-exec-10][54]2017-03-03 18:01:19.341 INFO  com.wechat.service.CoreService.processRequest:43 - 微信发送到本服务消息为：{FromUserName=oqOMPxNa7Kvm_9sZNGA0ORLyWWsA, EventKey=http://ysdtest.jlpay.com/wx-agent2/wechat/test/index.html, Event=VIEW, CreateTime=1488535341, MenuId=468568941, ToUserName=gh_f44957453df9, MsgType=event}
+[http-nio-80-exec-10][54]2017-03-03 18:01:19.342 INFO  com.wechat.controller.CoreController.postReceiveWechatMsg:62 - 回应微信消息为：<xml>
+  <ToUserName><![CDATA[oqOMPxNa7Kvm_9sZNGA0ORLyWWsA]]></ToUserName>
+  <FromUserName><![CDATA[gh_f44957453df9]]></FromUserName>
+  <CreateTime><![CDATA[1488535279341]]></CreateTime>
+  <MsgType><![CDATA[text]]></MsgType>
+  <Content><![CDATA[未知的消息类型！]]></Content>
+</xml>
+[http-nio-80-exec-2][44]2017-03-03 18:04:40.590 INFO  com.wechat.service.CoreService.processRequest:43 - 微信发送到本服务消息为：{FromUserName=oqOMPxNa7Kvm_9sZNGA0ORLyWWsA, EventKey=http://ysdtest.jlpay.com/wx-agent2/wechat/test/index.html, Event=VIEW, CreateTime=1488535542, MenuId=468568941, ToUserName=gh_f44957453df9, MsgType=event}
+[http-nio-80-exec-2][44]2017-03-03 18:04:40.591 INFO  com.wechat.controller.CoreController.postReceiveWechatMsg:62 - 回应微信消息为：<xml>
+  <ToUserName><![CDATA[oqOMPxNa7Kvm_9sZNGA0ORLyWWsA]]></ToUserName>
+  <FromUserName><![CDATA[gh_f44957453df9]]></FromUserName>
+  <CreateTime><![CDATA[1488535480591]]></CreateTime>
+  <MsgType><![CDATA[text]]></MsgType>
+  <Content><![CDATA[未知的消息类型！]]></Content>
+</xml>
+[http-nio-80-exec-4][46]2017-03-03 18:04:40.624 INFO  o.a.coyote.http11.Http11Processor.log:181 - Error parsing HTTP request header
+ Note: further occurrences of HTTP header parsing errors will be logged at DEBUG level.
+java.lang.IllegalArgumentException: Invalid character found in the request target. The valid characters are defined in RFC 7230 and RFC 3986
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:471)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:667)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:798)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1434)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Unknown Source)
+[http-nio-80-exec-6][48]2017-03-03 18:04:40.661 INFO  o.a.coyote.http11.Http11Processor.log:181 - Error parsing HTTP request header
+ Note: further occurrences of HTTP header parsing errors will be logged at DEBUG level.
+java.lang.IllegalArgumentException: Invalid character found in the request target. The valid characters are defined in RFC 7230 and RFC 3986
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:471)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:667)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:798)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1434)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Unknown Source)
+[http-nio-80-exec-7][49]2017-03-03 18:07:05.053 INFO  com.wechat.service.CoreService.processRequest:43 - 微信发送到本服务消息为：{FromUserName=oqOMPxNa7Kvm_9sZNGA0ORLyWWsA, EventKey=http://ysdtest.jlpay.com/wx-agent2/wechat/test/index.html, Event=VIEW, CreateTime=1488535687, MenuId=468568941, ToUserName=gh_f44957453df9, MsgType=event}
+[http-nio-80-exec-7][49]2017-03-03 18:07:05.060 INFO  com.wechat.controller.CoreController.postReceiveWechatMsg:62 - 回应微信消息为：<xml>
+  <ToUserName><![CDATA[oqOMPxNa7Kvm_9sZNGA0ORLyWWsA]]></ToUserName>
+  <FromUserName><![CDATA[gh_f44957453df9]]></FromUserName>
+  <CreateTime><![CDATA[1488535625059]]></CreateTime>
+  <MsgType><![CDATA[text]]></MsgType>
+  <Content><![CDATA[未知的消息类型！]]></Content>
+</xml>
+[http-nio-80-exec-9][53]2017-03-03 18:08:14.817 INFO  com.wechat.service.CoreService.processRequest:43 - 微信发送到本服务消息为：{FromUserName=oqOMPxNa7Kvm_9sZNGA0ORLyWWsA, EventKey=http://ysdtest.jlpay.com/wx-agent2/wechat/test/index.html, Event=VIEW, CreateTime=1488535756, MenuId=468568941, ToUserName=gh_f44957453df9, MsgType=event}
+[http-nio-80-exec-9][53]2017-03-03 18:08:14.818 INFO  com.wechat.controller.CoreController.postReceiveWechatMsg:62 - 回应微信消息为：<xml>
+  <ToUserName><![CDATA[oqOMPxNa7Kvm_9sZNGA0ORLyWWsA]]></ToUserName>
+  <FromUserName><![CDATA[gh_f44957453df9]]></FromUserName>
+  <CreateTime><![CDATA[1488535694818]]></CreateTime>
+  <MsgType><![CDATA[text]]></MsgType>
+  <Content><![CDATA[未知的消息类型！]]></Content>
+</xml>
+[main][1]2017-03-03 18:08:28.634 INFO  com.wechat.XlwechatApplication.logStarting:48 - Starting XlwechatApplication on xielang with PID 20352 (D:\xlwechat\target\classes started by xielang in D:\xlwechat)
+[main][1]2017-03-03 18:08:28.644 DEBUG com.wechat.XlwechatApplication.logStarting:51 - Running with Spring Boot v1.5.1.RELEASE, Spring v4.3.6.RELEASE
+[main][1]2017-03-03 18:08:28.644 INFO  com.wechat.XlwechatApplication.logStartupProfileInfo:637 - No active profile set, falling back to default profiles: default
+[background-preinit][20]2017-03-03 18:08:29.833 INFO  o.h.validator.internal.util.Version.<clinit>:30 - HV000001: Hibernate Validator 5.3.4.Final
+[main][1]2017-03-03 18:08:32.458 INFO  o.a.catalina.core.StandardService.log:179 - Starting service Tomcat
+[main][1]2017-03-03 18:08:32.463 INFO  o.a.catalina.core.StandardEngine.log:179 - Starting Servlet Engine: Apache Tomcat/8.5.11
+[localhost-startStop-1][24]2017-03-03 18:08:32.787 INFO  o.a.c.c.C.[.[localhost].[/wx-agent2].log:179 - Initializing Spring embedded WebApplicationContext
+[main][1]2017-03-03 18:08:35.626 INFO  o.a.coyote.http11.Http11NioProtocol.log:179 - Initializing ProtocolHandler ["http-nio-80"]
+[main][1]2017-03-03 18:08:35.647 INFO  o.a.coyote.http11.Http11NioProtocol.log:179 - Starting ProtocolHandler [http-nio-80]
+[main][1]2017-03-03 18:08:35.659 INFO  o.a.tomcat.util.net.NioSelectorPool.log:179 - Using a shared selector for servlet write/read
+[main][1]2017-03-03 18:08:35.733 INFO  com.wechat.XlwechatApplication.logStarted:57 - Started XlwechatApplication in 7.82 seconds (JVM running for 9.039)
+[http-nio-80-exec-1][45]2017-03-03 18:08:48.085 INFO  o.a.c.c.C.[.[localhost].[/wx-agent2].log:179 - Initializing Spring FrameworkServlet 'dispatcherServlet'
+[main][1]2017-03-03 18:11:28.806 INFO  com.wechat.XlwechatApplication.logStarting:48 - Starting XlwechatApplication on xielang with PID 21156 (D:\xlwechat\target\classes started by xielang in D:\xlwechat)
+[main][1]2017-03-03 18:11:28.811 DEBUG com.wechat.XlwechatApplication.logStarting:51 - Running with Spring Boot v1.5.1.RELEASE, Spring v4.3.6.RELEASE
+[main][1]2017-03-03 18:11:28.812 INFO  com.wechat.XlwechatApplication.logStartupProfileInfo:637 - No active profile set, falling back to default profiles: default
+[background-preinit][17]2017-03-03 18:11:30.117 INFO  o.h.validator.internal.util.Version.<clinit>:30 - HV000001: Hibernate Validator 5.3.4.Final
+[main][1]2017-03-03 18:11:33.061 INFO  o.a.catalina.core.StandardService.log:179 - Starting service Tomcat
+[main][1]2017-03-03 18:11:33.075 INFO  o.a.catalina.core.StandardEngine.log:179 - Starting Servlet Engine: Apache Tomcat/8.5.11
+[localhost-startStop-1][21]2017-03-03 18:11:33.274 INFO  o.a.c.c.C.[.[localhost].[/wx-agent2].log:179 - Initializing Spring embedded WebApplicationContext
+[main][1]2017-03-03 18:11:36.837 INFO  o.a.coyote.http11.Http11NioProtocol.log:179 - Initializing ProtocolHandler ["http-nio-80"]
+[main][1]2017-03-03 18:11:36.851 INFO  o.a.coyote.http11.Http11NioProtocol.log:179 - Starting ProtocolHandler [http-nio-80]
+[main][1]2017-03-03 18:11:36.866 INFO  o.a.tomcat.util.net.NioSelectorPool.log:179 - Using a shared selector for servlet write/read
+[main][1]2017-03-03 18:11:36.946 INFO  com.wechat.XlwechatApplication.logStarted:57 - Started XlwechatApplication in 8.696 seconds (JVM running for 9.731)
+[http-nio-80-exec-1][43]2017-03-03 18:11:39.722 INFO  o.a.c.c.C.[.[localhost].[/wx-agent2].log:179 - Initializing Spring FrameworkServlet 'dispatcherServlet'
+[http-nio-80-exec-1][43]2017-03-03 18:11:40.016 INFO  com.wechat.service.CoreService.processRequest:43 - 微信发送到本服务消息为：{FromUserName=oqOMPxNa7Kvm_9sZNGA0ORLyWWsA, EventKey=http://ysdtest.jlpay.com/wx-agent2/wechat/test/index.html, Event=VIEW, CreateTime=1488535961, MenuId=468568941, ToUserName=gh_f44957453df9, MsgType=event}
+[http-nio-80-exec-1][43]2017-03-03 18:11:40.032 INFO  com.wechat.controller.CoreController.postReceiveWechatMsg:62 - 回应微信消息为：<xml>
+  <ToUserName><![CDATA[oqOMPxNa7Kvm_9sZNGA0ORLyWWsA]]></ToUserName>
+  <FromUserName><![CDATA[gh_f44957453df9]]></FromUserName>
+  <CreateTime><![CDATA[1488535900017]]></CreateTime>
+  <MsgType><![CDATA[text]]></MsgType>
+  <Content><![CDATA[未知的消息类型！]]></Content>
+</xml>
+[http-nio-80-exec-3][45]2017-03-03 18:11:45.144 INFO  com.wechat.service.CoreService.processRequest:43 - 微信发送到本服务消息为：{FromUserName=oqOMPxNa7Kvm_9sZNGA0ORLyWWsA, EventKey=http://ysdtest.jlpay.com/wx-agent2/wechat/test/index.html, Event=VIEW, CreateTime=1488535967, MenuId=468568941, ToUserName=gh_f44957453df9, MsgType=event}
+[http-nio-80-exec-3][45]2017-03-03 18:11:45.146 INFO  com.wechat.controller.CoreController.postReceiveWechatMsg:62 - 回应微信消息为：<xml>
+  <ToUserName><![CDATA[oqOMPxNa7Kvm_9sZNGA0ORLyWWsA]]></ToUserName>
+  <FromUserName><![CDATA[gh_f44957453df9]]></FromUserName>
+  <CreateTime><![CDATA[1488535905145]]></CreateTime>
+  <MsgType><![CDATA[text]]></MsgType>
+  <Content><![CDATA[未知的消息类型！]]></Content>
+</xml>
+[pool-1-thread-1][26]2017-03-03 19:00:00.010 DEBUG com.wechat.utils.WeixinUtils.getToken:136 - {grant_type=client_credential, secret=e5994e6918564af078d4ed7674e456fd, appid=wx494a7bdca2d1deb1}
+[pool-1-thread-1][26]2017-03-03 19:00:00.011 DEBUG com.wechat.utils.HttpsGetData.sendGet:53 - GET请求的URL为：https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&secret=e5994e6918564af078d4ed7674e456fd&appid=wx494a7bdca2d1deb1
+[pool-1-thread-1][26]2017-03-03 19:00:00.657 DEBUG com.wechat.utils.HttpsGetData.sendGet:81 - 获取的结果为：{"access_token":"ho6avQNnHzNk3oXVGeXNTepgXLoXI4o59WI5QshaJIGs1MY5YHDnGwEN6C3SFIrtlz-R8ppxRI93NaCF-L9wAWioO8doBWo3XQntYPhao3AN0UgW4JDu8fxGnrZNaF7RVVChACADDK","expires_in":7200}
+[pool-1-thread-1][26]2017-03-03 19:00:00.716 INFO  com.wechat.utils.WeixinUtils.getToken:146 - {access_token=ho6avQNnHzNk3oXVGeXNTepgXLoXI4o59WI5QshaJIGs1MY5YHDnGwEN6C3SFIrtlz-R8ppxRI93NaCF-L9wAWioO8doBWo3XQntYPhao3AN0UgW4JDu8fxGnrZNaF7RVVChACADDK, expires_in=7200}
+[pool-1-thread-1][26]2017-03-03 20:00:00.002 DEBUG com.wechat.utils.WeixinUtils.getToken:136 - {grant_type=client_credential, secret=e5994e6918564af078d4ed7674e456fd, appid=wx494a7bdca2d1deb1}
+[pool-1-thread-1][26]2017-03-03 20:00:00.002 DEBUG com.wechat.utils.HttpsGetData.sendGet:53 - GET请求的URL为：https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&secret=e5994e6918564af078d4ed7674e456fd&appid=wx494a7bdca2d1deb1
+[pool-1-thread-1][26]2017-03-03 20:00:00.236 DEBUG com.wechat.utils.HttpsGetData.sendGet:81 - 获取的结果为：{"access_token":"oIdITpQ4uKuaTcdnRu75ygO2g0o46Q2i5ppVfp6euKMD2YMkK6WpAESD62ls2PTdClwhRanV3CzwiyOLw_wQuxA_9kCpiqE56RGYC0xfkbCwkVUcQO2Yp5XVG5CHy5-YOTTcAEAZEE","expires_in":7200}
+[pool-1-thread-1][26]2017-03-03 20:00:00.236 INFO  com.wechat.utils.WeixinUtils.getToken:146 - {access_token=oIdITpQ4uKuaTcdnRu75ygO2g0o46Q2i5ppVfp6euKMD2YMkK6WpAESD62ls2PTdClwhRanV3CzwiyOLw_wQuxA_9kCpiqE56RGYC0xfkbCwkVUcQO2Yp5XVG5CHy5-YOTTcAEAZEE, expires_in=7200}
+[pool-1-thread-1][26]2017-03-03 21:00:00.000 DEBUG com.wechat.utils.WeixinUtils.getToken:136 - {grant_type=client_credential, secret=e5994e6918564af078d4ed7674e456fd, appid=wx494a7bdca2d1deb1}
+[pool-1-thread-1][26]2017-03-03 21:00:00.001 DEBUG com.wechat.utils.HttpsGetData.sendGet:53 - GET请求的URL为：https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&secret=e5994e6918564af078d4ed7674e456fd&appid=wx494a7bdca2d1deb1
+[pool-1-thread-1][26]2017-03-03 21:00:00.279 DEBUG com.wechat.utils.HttpsGetData.sendGet:81 - 获取的结果为：{"access_token":"JRew_BmshR-asBzgD15Bgrsnzo6R2hdTr7RFxvujemD_5cyKKo0e-YO1G2Ch9-6UqHZJct4yzdXzuAMO3pDpSwqaQ6Sf_DXRaHH2Vgu0b_axZxfWkLcbE4u1_HgjmgDlWVKgAHANMB","expires_in":7200}
+[pool-1-thread-1][26]2017-03-03 21:00:00.279 INFO  com.wechat.utils.WeixinUtils.getToken:146 - {access_token=JRew_BmshR-asBzgD15Bgrsnzo6R2hdTr7RFxvujemD_5cyKKo0e-YO1G2Ch9-6UqHZJct4yzdXzuAMO3pDpSwqaQ6Sf_DXRaHH2Vgu0b_axZxfWkLcbE4u1_HgjmgDlWVKgAHANMB, expires_in=7200}
+[pool-1-thread-1][26]2017-03-03 22:00:00.001 DEBUG com.wechat.utils.WeixinUtils.getToken:136 - {grant_type=client_credential, secret=e5994e6918564af078d4ed7674e456fd, appid=wx494a7bdca2d1deb1}
+[pool-1-thread-1][26]2017-03-03 22:00:00.002 DEBUG com.wechat.utils.HttpsGetData.sendGet:53 - GET请求的URL为：https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&secret=e5994e6918564af078d4ed7674e456fd&appid=wx494a7bdca2d1deb1
+[pool-1-thread-1][26]2017-03-03 22:00:00.262 DEBUG com.wechat.utils.HttpsGetData.sendGet:81 - 获取的结果为：{"access_token":"fUBij7OA4NZW87DndjalGUxwXo5uDy_CaLmvv85g-rXs5No-BM3istUrYsI13FgFJuWFtOkMzw7u4OZjeJYBRnZDE9O2_BqoIiz0CdA7D9ezEO0vLKeGJiyrdiIY5HR8CLVgAEAYHR","expires_in":7200}
+[pool-1-thread-1][26]2017-03-03 22:00:00.263 INFO  com.wechat.utils.WeixinUtils.getToken:146 - {access_token=fUBij7OA4NZW87DndjalGUxwXo5uDy_CaLmvv85g-rXs5No-BM3istUrYsI13FgFJuWFtOkMzw7u4OZjeJYBRnZDE9O2_BqoIiz0CdA7D9ezEO0vLKeGJiyrdiIY5HR8CLVgAEAYHR, expires_in=7200}
+[pool-1-thread-1][26]2017-03-03 23:00:00.001 DEBUG com.wechat.utils.WeixinUtils.getToken:136 - {grant_type=client_credential, secret=e5994e6918564af078d4ed7674e456fd, appid=wx494a7bdca2d1deb1}
+[pool-1-thread-1][26]2017-03-03 23:00:00.002 DEBUG com.wechat.utils.HttpsGetData.sendGet:53 - GET请求的URL为：https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&secret=e5994e6918564af078d4ed7674e456fd&appid=wx494a7bdca2d1deb1
+[pool-1-thread-1][26]2017-03-03 23:00:00.261 DEBUG com.wechat.utils.HttpsGetData.sendGet:81 - 获取的结果为：{"access_token":"scFd1rShUHtVUCnFarCkggm08UnoJG1w8eCmGK-tN5PKPCqZzM490S2XjWHgYgOwyhDNKTi7goEXd_vEr8jtysthsmgbBDFX-PGP26QiGpljQL2bYXKXxOe5v-adhCu1VSNdAAAAXS","expires_in":7200}
+[pool-1-thread-1][26]2017-03-03 23:00:00.261 INFO  com.wechat.utils.WeixinUtils.getToken:146 - {access_token=scFd1rShUHtVUCnFarCkggm08UnoJG1w8eCmGK-tN5PKPCqZzM490S2XjWHgYgOwyhDNKTi7goEXd_vEr8jtysthsmgbBDFX-PGP26QiGpljQL2bYXKXxOe5v-adhCu1VSNdAAAAXS, expires_in=7200}

@@ -24,6 +24,8 @@ import com.wechat.utils.WeixinUtils;
 public class GetToken {
 
 
+
+
   @Autowired
   private WeixinUtils weixinUtils;
   

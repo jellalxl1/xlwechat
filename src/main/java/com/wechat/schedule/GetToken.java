@@ -23,9 +23,6 @@ import com.wechat.utils.WeixinUtils;
 @Component
 public class GetToken {
 
-
-
-
   @Autowired
   private WeixinUtils weixinUtils;
   

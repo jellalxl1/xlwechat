@@ -22,7 +22,8 @@ import com.wechat.utils.WeixinUtils;
 @EnableScheduling
 @Component
 public class GetToken {
-  
+
+
   @Autowired
   private WeixinUtils weixinUtils;
   

@@ -52,7 +52,7 @@ public class HttpUtil {
 	/**
 	 * get请求
 	 * 
-	 * @param fullurl
+	 * @param
 	 * @return
 	 * @throws ClientProtocolException
 	 * @throws IOException
